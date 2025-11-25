@@ -35,6 +35,8 @@ make_heatmap <- function(pwy, genes, norm_data, metadata, gois) {
     column_to_rownames("gene") %>%
     as.matrix()
   
+  mat <- mat[rownames(ann_row),]
+  
   log_mat <- log(mat + 1)
   
   newnames <- lapply(
@@ -60,12 +62,9 @@ make_figure_4  <- function(norm_data, metadata, gene_list) {
   
   gois <- gene_list %>%
     filter(grepl("Complex", pathway)) %>%
-    mutate(subpathway = pathway) %>%
-    mutate(pathway = ifelse(grepl("Complex", pathway), "Complexes I-V", pathway))
+    arrange(subpathway, gene)
   
-  genes <- gois %>%
-    arrange(subpathway, gene) %>%
-    pull(gene)
+  genes <- gois$gene
   
   p_a <- viz_pathway("Complexes I-V", gois, de, "heatmap")
   p_b <- make_heatmap(pwy, genes, norm_data, metadata, gois)
