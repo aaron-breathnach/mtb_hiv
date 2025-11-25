@@ -1,0 +1,266 @@
+gene	pathway
+ACAA2	Amino Acid Synthesis
+ACAT1	Amino Acid Synthesis
+ACAT2	Amino Acid Synthesis
+ADH6	Amino Acid Synthesis
+ALDH2	Amino Acid Synthesis
+AMDHD1	Amino Acid Synthesis
+AOC3	Amino Acid Synthesis
+ASH1L	Amino Acid Synthesis
+ASL	Amino Acid Synthesis
+ASNS	Amino Acid Synthesis
+BHMT2	Amino Acid Synthesis
+CAD	Amino Acid Synthesis
+ECHS1	Amino Acid Synthesis
+EHHADH	Amino Acid Synthesis
+EZH2	Amino Acid Synthesis
+FAH	Amino Acid Synthesis
+FAHD1	Amino Acid Synthesis
+GATM	Amino Acid Synthesis
+GCDH	Amino Acid Synthesis
+GCLC	Amino Acid Synthesis
+GLS	Amino Acid Synthesis
+GLUD1	Amino Acid Synthesis
+GLUL	Amino Acid Synthesis
+GOT1	Amino Acid Synthesis
+GOT2	Amino Acid Synthesis
+HADH	Amino Acid Synthesis
+IL4I1	Amino Acid Synthesis
+KMT2A	Amino Acid Synthesis
+KMT2D	Amino Acid Synthesis
+KMT2E	Amino Acid Synthesis
+KYAT1	Amino Acid Synthesis
+KYAT3	Amino Acid Synthesis
+LDHA	Amino Acid Synthesis
+LDHB	Amino Acid Synthesis
+LTA4H	Amino Acid Synthesis
+MAT2A	Amino Acid Synthesis
+NFS1	Amino Acid Synthesis
+NSD1	Amino Acid Synthesis
+OAT	Amino Acid Synthesis
+ODC1	Amino Acid Synthesis
+OGDH	Amino Acid Synthesis
+PHGDH	Amino Acid Synthesis
+PPAT	Amino Acid Synthesis
+PSAT1	Amino Acid Synthesis
+PSPH	Amino Acid Synthesis
+PYCR2	Amino Acid Synthesis
+PYCR3	Amino Acid Synthesis
+RIMKLB	Amino Acid Synthesis
+SDS	Amino Acid Synthesis
+SDSL	Amino Acid Synthesis
+SHMT1	Amino Acid Synthesis
+SHMT2	Amino Acid Synthesis
+SRM	Amino Acid Synthesis
+SRR	Amino Acid Synthesis
+NDUFA1	Complex I
+NDUFA12	Complex I
+NDUFA13	Complex I
+NDUFA2	Complex I
+NDUFA3	Complex I
+NDUFA4	Complex I
+NDUFA6	Complex I
+NDUFA7	Complex I
+NDUFB1	Complex I
+NDUFB10	Complex I
+NDUFB11	Complex I
+NDUFB2	Complex I
+NDUFB4	Complex I
+NDUFB7	Complex I
+NDUFB8	Complex I
+NDUFS7	Complex I
+NDUFS8	Complex I
+SDHB	Complex II
+SDHC	Complex II
+UQCR10	Complex III
+UQCR11	Complex III
+UQCRQ	Complex III
+COX14	Complex IV
+COX4I1	Complex IV
+COX5A	Complex IV
+COX5B	Complex IV
+COX6A1	Complex IV
+COX6B1	Complex IV
+COX7B	Complex IV
+COX7C	Complex IV
+COX8A	Complex IV
+ATP5F1D	Complex V
+ATP5ME	Complex V
+ATP6V1F	Complex V
+AKT3	Cytokine and Chemokine Signalling
+ALOX5	Cytokine and Chemokine Signalling
+CBL	Cytokine and Chemokine Signalling
+CCL13	Cytokine and Chemokine Signalling
+CCL4	Cytokine and Chemokine Signalling
+CCL5	Cytokine and Chemokine Signalling
+CXCL9	Cytokine and Chemokine Signalling
+GSK3B	Cytokine and Chemokine Signalling
+HLA-E	Cytokine and Chemokine Signalling
+HMOX1	Cytokine and Chemokine Signalling
+IL2RA	Cytokine and Chemokine Signalling
+IL6	Cytokine and Chemokine Signalling
+IRF1	Cytokine and Chemokine Signalling
+JAK2	Cytokine and Chemokine Signalling
+KPNA2	Cytokine and Chemokine Signalling
+MAP2K3	Cytokine and Chemokine Signalling
+MYD88	Cytokine and Chemokine Signalling
+NFKB1	Cytokine and Chemokine Signalling
+NFKB2	Cytokine and Chemokine Signalling
+NUP205	Cytokine and Chemokine Signalling
+NUP62	Cytokine and Chemokine Signalling
+PIK3CD	Cytokine and Chemokine Signalling
+PIK3R1	Cytokine and Chemokine Signalling
+PSMA3	Cytokine and Chemokine Signalling
+PSMB10	Cytokine and Chemokine Signalling
+PSMB3	Cytokine and Chemokine Signalling
+PSMC1	Cytokine and Chemokine Signalling
+PSMD13	Cytokine and Chemokine Signalling
+PSME2	Cytokine and Chemokine Signalling
+PTGS2	Cytokine and Chemokine Signalling
+RELA	Cytokine and Chemokine Signalling
+RPLP0	Cytokine and Chemokine Signalling
+RPS6KA1	Cytokine and Chemokine Signalling
+SOD2	Cytokine and Chemokine Signalling
+SOS2	Cytokine and Chemokine Signalling
+STAM2	Cytokine and Chemokine Signalling
+STAT1	Cytokine and Chemokine Signalling
+STAT3	Cytokine and Chemokine Signalling
+STAT5A	Cytokine and Chemokine Signalling
+STAT6	Cytokine and Chemokine Signalling
+TBK1	Cytokine and Chemokine Signalling
+TNF	Cytokine and Chemokine Signalling
+VEGFA	Cytokine and Chemokine Signalling
+ACAA2	Fatty Acid Metabolism
+CBR4	Fatty Acid Metabolism
+CPT1A	Fatty Acid Metabolism
+FABP5	Fatty Acid Metabolism
+HADH	Fatty Acid Metabolism
+SCD	Fatty Acid Metabolism
+SLC25A1	Fatty Acid Metabolism
+TBXAS1	Fatty Acid Metabolism
+TECR	Fatty Acid Metabolism
+ACAA2	Fatty Acid Oxidation
+ACAT1	Fatty Acid Oxidation
+ACAT2	Fatty Acid Oxidation
+ACOT12	Fatty Acid Oxidation
+ACOX1	Fatty Acid Oxidation
+ADH6	Fatty Acid Oxidation
+ALDH2	Fatty Acid Oxidation
+CPT1A	Fatty Acid Oxidation
+ECHS1	Fatty Acid Oxidation
+EHHADH	Fatty Acid Oxidation
+GCDH	Fatty Acid Oxidation
+HADH	Fatty Acid Oxidation
+MCAT	Fatty Acid Oxidation
+PRKAB2	Fatty Acid Oxidation
+PRKAG2	Fatty Acid Oxidation
+ACACA	Fatty Acid Synthesis
+ACACB	Fatty Acid Synthesis
+CBR4	Fatty Acid Synthesis
+FABP5	Fatty Acid Synthesis
+FASN	Fatty Acid Synthesis
+HACD2	Fatty Acid Synthesis
+HSD17B8	Fatty Acid Synthesis
+SCD	Fatty Acid Synthesis
+SLC25A1	Fatty Acid Synthesis
+TBXAS1	Fatty Acid Synthesis
+TECR	Fatty Acid Synthesis
+ADH6	Glycolysis
+ALDH2	Glycolysis
+ALDOA	Glycolysis
+ENO1	Glycolysis
+FBP1	Glycolysis
+GAPDH	Glycolysis
+GPI	Glycolysis
+HK1	Glycolysis
+HK2	Glycolysis
+HK3	Glycolysis
+LDHA	Glycolysis
+LDHB	Glycolysis
+PCK2	Glycolysis
+PDHA1	Glycolysis
+PFKL	Glycolysis
+PFKM	Glycolysis
+PGK1	Glycolysis
+PGM2	Glycolysis
+PKM	Glycolysis
+SLC2A1	Glycolysis
+SLC2A14	Glycolysis
+SLC2A5	Glycolysis
+SLC2A6	Glycolysis
+SLC2A8	Glycolysis
+ATP5F1D	Mitochondrial OXPHOS
+ATP5ME	Mitochondrial OXPHOS
+ATP6V1F	Mitochondrial OXPHOS
+COX14	Mitochondrial OXPHOS
+COX4I1	Mitochondrial OXPHOS
+COX5A	Mitochondrial OXPHOS
+COX5B	Mitochondrial OXPHOS
+COX6A1	Mitochondrial OXPHOS
+COX6B1	Mitochondrial OXPHOS
+COX7B	Mitochondrial OXPHOS
+COX7C	Mitochondrial OXPHOS
+COX8A	Mitochondrial OXPHOS
+NDUFA1	Mitochondrial OXPHOS
+NDUFA12	Mitochondrial OXPHOS
+NDUFA13	Mitochondrial OXPHOS
+NDUFA2	Mitochondrial OXPHOS
+NDUFA3	Mitochondrial OXPHOS
+NDUFA4	Mitochondrial OXPHOS
+NDUFA6	Mitochondrial OXPHOS
+NDUFA7	Mitochondrial OXPHOS
+NDUFB1	Mitochondrial OXPHOS
+NDUFB10	Mitochondrial OXPHOS
+NDUFB11	Mitochondrial OXPHOS
+NDUFB2	Mitochondrial OXPHOS
+NDUFB4	Mitochondrial OXPHOS
+NDUFB7	Mitochondrial OXPHOS
+NDUFB8	Mitochondrial OXPHOS
+NDUFS7	Mitochondrial OXPHOS
+NDUFS8	Mitochondrial OXPHOS
+SDHB	Mitochondrial OXPHOS
+SDHC	Mitochondrial OXPHOS
+UQCR10	Mitochondrial OXPHOS
+UQCR11	Mitochondrial OXPHOS
+UQCRQ	Mitochondrial OXPHOS
+CS	TCA Cycle
+FH	TCA Cycle
+HMOX1	TCA Cycle
+IDH2	TCA Cycle
+IDH3A	TCA Cycle
+IDH3B	TCA Cycle
+IDH3G	TCA Cycle
+KEAP1	TCA Cycle
+L2HGDH	TCA Cycle
+ME2	TCA Cycle
+MPC1	TCA Cycle
+MPC2	TCA Cycle
+NFE2L2	TCA Cycle
+OGDH	TCA Cycle
+PDHA1	TCA Cycle
+PDK1	TCA Cycle
+PDK2	TCA Cycle
+PDK3	TCA Cycle
+PDK4	TCA Cycle
+PDP1	TCA Cycle
+SDHB	TCA Cycle
+SDHC	TCA Cycle
+ACAT1	Tryptophan/Kynurenine Metabolism
+ACAT2	Tryptophan/Kynurenine Metabolism
+AFMID	Tryptophan/Kynurenine Metabolism
+ALDH2	Tryptophan/Kynurenine Metabolism
+CAT	Tryptophan/Kynurenine Metabolism
+CYP1B1	Tryptophan/Kynurenine Metabolism
+ECHS1	Tryptophan/Kynurenine Metabolism
+EHHADH	Tryptophan/Kynurenine Metabolism
+GCDH	Tryptophan/Kynurenine Metabolism
+HAAO	Tryptophan/Kynurenine Metabolism
+HADH	Tryptophan/Kynurenine Metabolism
+IDO1	Tryptophan/Kynurenine Metabolism
+IL4I1	Tryptophan/Kynurenine Metabolism
+KMO	Tryptophan/Kynurenine Metabolism
+KYAT1	Tryptophan/Kynurenine Metabolism
+KYAT3	Tryptophan/Kynurenine Metabolism
+KYNU	Tryptophan/Kynurenine Metabolism
+OGDH	Tryptophan/Kynurenine Metabolism
+TDO2	Tryptophan/Kynurenine Metabolism

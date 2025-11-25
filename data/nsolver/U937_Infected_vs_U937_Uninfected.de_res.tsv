@@ -1,0 +1,514 @@
+...1	Log2 fold change	std error (log2)	Lower confidence limit (log2)	Upper confidence limit (log2)	Linear fold change	Lower confidence limit (linear)	Upper confidence limit (linear)	P-value	BH.p.value	method	Gene.sets	probe.ID
+IL6-mRNA	5.36	0.368	4.64	6.08	41.1	24.9	67.8	1.29e-4	0.0434	lm.nb	Cytokine & Chemokine Signaling, PI3K	NM_000600.3:364
+SOD2-mRNA	2.41	0.177	2.06	2.75	5.3	4.17	6.74	1.69e-4	0.0434	lm.nb	Cytokine & Chemokine Signaling, Mitochondrial Respiration	NM_000636.2:201
+CCL5-mRNA	1.23	0.116	1.01	1.46	2.35	2.01	2.75	4.4e-4	0.0504	loglinear	Cytokine & Chemokine Signaling	NM_002985.2:277
+IDO1-mRNA	5.33	0.521	4.3	6.35	40.1	19.8	81.4	5.18e-4	0.0504	lm.nb	TryptophanKynurenine Metabolism	NM_002164.5:52
+PIK3R2-mRNA	-0.878	0.091	-1.06	-0.7	0.544	0.481	0.616	6.44e-4	0.0504	loglinear	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_005027.2:3100
+CCL4-mRNA	2.54	0.263	2.02	3.05	5.8	4.06	8.29	6.45e-4	0.0504	lm.nb	Cytokine & Chemokine Signaling, NF-kB	NM_002984.2:201
+NT5E-mRNA	1.81	0.191	1.43	2.18	3.5	2.7	4.54	6.92e-4	0.0504	lm.nb	Nucleotide Synthesis, Vitamin & Cofactor Metabolism	NM_002526.2:1214
+IRF1-mRNA	1.06	0.115	0.83	1.28	2.08	1.78	2.43	7.86e-4	0.0504	loglinear	Cytokine & Chemokine Signaling, Transcriptional Regulation	NM_002198.2:15
+CTSL-mRNA	2.14	0.242	1.67	2.62	4.42	3.18	6.14	9.03e-4	0.0515	lm.nb	Antigen Presentation, Autophagy, Lysosomal Degradation, TLR Signaling	NM_001912.4:1072
+PHGDH-mRNA	-0.733	0.0865	-0.902	-0.563	0.602	0.535	0.677	0.00106	0.0545	loglinear	Amino Acid Synthesis, Glutamine Metabolism	NM_006623.3:1900
+ACAT1-mRNA	-0.789	0.101	-0.987	-0.592	0.579	0.505	0.663	0.00143	0.0669	loglinear	Amino Acid Synthesis, Fatty Acid Oxidation, TryptophanKynurenine Metabolism	NM_000019.3:282
+TNF-mRNA	1.21	0.16	0.898	1.53	2.32	1.86	2.88	0.00163	0.0685	lm.nb	Cytokine & Chemokine Signaling, MAPK, NF-kB, TCR & Costimulatory Signaling, mTOR	NM_000594.2:1010
+CAD-mRNA	-0.941	0.128	-1.19	-0.69	0.521	0.438	0.62	0.00182	0.0685	loglinear	Amino Acid Synthesis, Myc, Nucleotide Synthesis	NM_004341.3:2380
+NFS1-mRNA	-0.513	0.0702	-0.65	-0.375	0.701	0.637	0.771	0.00187	0.0685	loglinear	Amino Acid Synthesis	NM_021100.3:1775
+LDHB-mRNA	-0.96	0.135	-1.22	-0.696	0.514	0.428	0.617	0.00206	0.0704	loglinear	Amino Acid Synthesis, Glycolysis, Mitochondrial Respiration	NM_001174097.1:586
+FASN-mRNA	-1.16	0.173	-1.5	-0.818	0.449	0.355	0.567	0.00259	0.0832	loglinear	AMPK, Fatty Acid Synthesis, Myc, Vitamin & Cofactor Metabolism	NM_004104.4:5387
+APRT-mRNA	-0.633	0.1	-0.829	-0.436	0.645	0.563	0.739	0.00323	0.0896	loglinear	Nucleotide Salvage, Nucleotide Synthesis	NM_000485.2:662
+OAT-mRNA	-0.764	0.124	-1.01	-0.521	0.589	0.497	0.697	0.00353	0.0896	loglinear	Amino Acid Synthesis, Glutamine Metabolism	NM_000274.3:775
+CAT-mRNA	-0.821	0.134	-1.08	-0.559	0.566	0.472	0.679	0.00355	0.0896	lm.nb	Reactive Oxygen Response, TryptophanKynurenine Metabolism	NM_001752.2:1130
+IMPDH1-mRNA	-0.929	0.152	-1.23	-0.631	0.525	0.427	0.646	0.00362	0.0896	lm.nb	Nucleotide Synthesis	NM_000883.3:862
+SLC16A1-mRNA	-0.86	0.141	-1.14	-0.584	0.551	0.455	0.667	0.00367	0.0896	loglinear	Mitochondrial Respiration	NM_003051.3:635
+GMPR-mRNA	1.14	0.195	0.757	1.52	2.2	1.69	2.87	0.00428	0.0983	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_006877.3:325
+KANSL1-mRNA	0.312	0.0538	0.206	0.417	1.24	1.15	1.34	0.00441	0.0983	loglinear	Epigenetic Regulation	NM_001193465.1:1838
+IMPDH2-mRNA	-0.939	0.165	-1.26	-0.615	0.522	0.417	0.653	0.00476	0.102	loglinear	Nucleotide Synthesis	NM_000884.2:545
+CPT1A-mRNA	-0.998	0.18	-1.35	-0.646	0.501	0.392	0.639	0.00516	0.102	loglinear	AMPK, Fatty Acid Oxidation	NM_001876.3:1355
+PSMB10-mRNA	0.76	0.14	0.486	1.03	1.69	1.4	2.05	0.00558	0.102	lm.nb	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_002801.3:249
+RELA-mRNA	0.571	0.106	0.364	0.778	1.49	1.29	1.71	0.00566	0.102	loglinear	Cytokine & Chemokine Signaling, Epigenetic Regulation, MAPK, NF-kB, PI3K, TCR & Costimulatory Signaling, TLR Signaling, Transcriptional Regulation	NM_021975.3:1990
+CS-mRNA	-0.628	0.117	-0.856	-0.399	0.647	0.552	0.758	0.00576	0.102	loglinear	Mitochondrial Respiration	NM_004077.2:740
+MYD88-mRNA	0.727	0.136	0.461	0.993	1.66	1.38	1.99	0.00585	0.102	lm.nb	Antigen Presentation, Cytokine & Chemokine Signaling, MAPK, NF-kB, TLR Signaling	NM_002468.3:2145
+SLC3A2-mRNA	0.408	0.0766	0.258	0.558	1.33	1.2	1.47	0.00597	0.102	loglinear	Amino Acid Transporters, mTOR	NM_001012662.2:1505
+INSR-mRNA	-0.781	0.148	-1.07	-0.49	0.582	0.476	0.712	0.00625	0.103	loglinear	AMPK, MAPK, PI3K, mTOR	NM_000208.2:525
+STK3-mRNA	0.7	0.138	0.43	0.971	1.62	1.35	1.96	0.00712	0.113	loglinear	MAPK	NM_006281.3:1295
+BRCC3-mRNA	-0.663	0.132	-0.922	-0.404	0.632	0.528	0.756	0.00742	0.113	loglinear	Cell Cycle, DNA Damage Repair	NM_024332.3:458
+TKT-mRNA	-0.467	0.0935	-0.65	-0.284	0.723	0.637	0.821	0.00752	0.113	loglinear	Pentose Phosphate Pathway	NM_001064.2:1235
+PSAT1-mRNA	-0.689	0.142	-0.967	-0.411	0.62	0.512	0.752	0.00825	0.119	loglinear	Amino Acid Synthesis, Glutamine Metabolism	NM_021154.3:1445
+HADH-mRNA	-0.98	0.203	-1.38	-0.582	0.507	0.385	0.668	0.00846	0.119	lm.nb	Amino Acid Synthesis, Fatty Acid Oxidation, TryptophanKynurenine Metabolism	NM_001184705.2:645
+PPAT-mRNA	-0.775	0.161	-1.09	-0.46	0.584	0.47	0.727	0.00855	0.119	loglinear	Amino Acid Synthesis, Myc, Nucleotide Synthesis	NM_002703.3:1210
+FNIP2-mRNA	0.852	0.179	0.502	1.2	1.8	1.42	2.3	0.00887	0.12	lm.nb	mTOR	NM_020840.1:1732
+NCOR1-mRNA	-0.215	0.0459	-0.305	-0.125	0.861	0.809	0.917	0.00935	0.12	loglinear	Epigenetic Regulation, Mitochondrial Respiration	NM_006311.3:1390
+NFE2L2-mRNA	0.606	0.13	0.352	0.861	1.52	1.28	1.82	0.00949	0.12	loglinear	IDH12 Activity, KEAP1NRF2 Pathway, Transcriptional Regulation	NM_006164.3:995
+CTPS1-mRNA	-0.691	0.15	-0.984	-0.398	0.619	0.506	0.759	0.00988	0.12	loglinear	Nucleotide Synthesis	NM_001301237.1:580
+MLST8-mRNA	-0.954	0.209	-1.36	-0.544	0.516	0.388	0.686	0.0104	0.12	loglinear	Autophagy, PI3K, mTOR, p53 Pathway	NM_001199173.1:810
+CBL-mRNA	-0.272	0.0601	-0.39	-0.154	0.828	0.763	0.899	0.0107	0.12	loglinear	Cytokine & Chemokine Signaling, Endocytosis	NM_005188.2:7485
+GZMB-mRNA	0.815	0.181	0.461	1.17	1.76	1.38	2.25	0.0107	0.12	lm.nb	NA	NM_004131.3:540
+AMPD3-mRNA	0.848	0.188	0.479	1.22	1.8	1.39	2.32	0.0108	0.12	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_000480.2:3033
+PLCG1-mRNA	-0.599	0.133	-0.86	-0.338	0.66	0.551	0.791	0.0108	0.12	loglinear	Cytokine & Chemokine Signaling, NF-kB, TCR & Costimulatory Signaling	NM_002660.2:2290
+JAK2-mRNA	0.794	0.181	0.439	1.15	1.73	1.36	2.22	0.0119	0.124	loglinear	Cell Cycle, Cytokine & Chemokine Signaling, Epigenetic Regulation, PI3K, Reactive Oxygen Response	NM_004972.3:1464
+CD276-mRNA	0.347	0.0792	0.192	0.502	1.27	1.14	1.42	0.0119	0.124	loglinear	TCR & Costimulatory Signaling	NM_001024736.1:2119
+ITGB5-mRNA	-0.516	0.118	-0.747	-0.285	0.699	0.596	0.821	0.0119	0.124	loglinear	Antigen Presentation, PI3K	NM_002213.3:2560
+CD4-mRNA	-0.604	0.14	-0.879	-0.329	0.658	0.544	0.796	0.0126	0.129	lm.nb	Cytokine & Chemokine Signaling, Endocytosis, TCR & Costimulatory Signaling	NM_000616.4:975
+ATG2B-mRNA	-0.403	0.0943	-0.588	-0.218	0.756	0.665	0.86	0.0129	0.13	loglinear	Autophagy	NM_018036.5:1722
+GLRX-mRNA	0.774	0.184	0.413	1.14	1.71	1.33	2.2	0.0137	0.134	lm.nb	Glutamine Metabolism	NM_002064.2:360
+ATXN7-mRNA	0.705	0.17	0.371	1.04	1.63	1.29	2.05	0.0144	0.134	lm.nb	Epigenetic Regulation	NM_001128149.2:3600
+PEBP1-mRNA	-0.735	0.179	-1.09	-0.384	0.601	0.471	0.766	0.0148	0.134	lm.nb	Reactive Oxygen Response	NM_002567.2:1335
+SRM-mRNA	-1.09	0.266	-1.61	-0.569	0.47	0.328	0.674	0.0148	0.134	lm.nb	Amino Acid Synthesis, Myc	NM_003132.2:254
+PTGS2-mRNA	2.36	0.578	1.23	3.49	5.13	2.34	11.2	0.0151	0.134	lm.nb	Cytokine & Chemokine Signaling, NF-kB, Reactive Oxygen Response, Vitamin & Cofactor Metabolism	NM_000963.1:495
+LAMC1-mRNA	-0.702	0.172	-1.04	-0.364	0.615	0.486	0.777	0.0152	0.134	loglinear	PI3K	NM_002293.3:4915
+STAT1-mRNA	0.589	0.145	0.305	0.874	1.5	1.24	1.83	0.0153	0.134	lm.nb	Cytokine & Chemokine Signaling, Transcriptional Regulation	NM_007315.3:239
+FH-mRNA	-0.77	0.19	-1.14	-0.398	0.586	0.453	0.759	0.0154	0.134	lm.nb	IDH12 Activity, Mitochondrial Respiration	NM_000143.2:203
+HK1-mRNA	-0.534	0.133	-0.795	-0.273	0.691	0.576	0.827	0.0159	0.136	loglinear	Glycolysis	NM_000188.2:3355
+PNP-mRNA	0.63	0.158	0.32	0.939	1.55	1.25	1.92	0.0163	0.137	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_000270.2:1150
+HACD2-mRNA	-0.826	0.21	-1.24	-0.415	0.564	0.424	0.75	0.017	0.14	lm.nb	Fatty Acid Synthesis	NM_198402.2:510
+TIGAR-mRNA	-0.843	0.215	-1.26	-0.422	0.557	0.416	0.746	0.0172	0.14	loglinear	p53 Pathway	NM_020375.2:5245
+KMO-mRNA	1.15	0.295	0.572	1.73	2.22	1.49	3.31	0.0176	0.14	lm.nb	TryptophanKynurenine Metabolism	NM_003679.3:595
+CDA-mRNA	-0.455	0.117	-0.685	-0.226	0.729	0.622	0.855	0.0178	0.14	loglinear	Nucleotide Salvage, Nucleotide Synthesis	NM_001785.2:322
+SDS-mRNA	1.62	0.431	0.778	2.47	3.08	1.72	5.53	0.0197	0.153	lm.nb	Amino Acid Synthesis	NM_006843.2:1165
+WASHC4-mRNA	0.395	0.106	0.188	0.602	1.31	1.14	1.52	0.0202	0.154	loglinear	Endocytosis	NM_015275.1:1485
+PEMT-mRNA	-0.712	0.191	-1.09	-0.338	0.61	0.471	0.791	0.0204	0.154	loglinear	Mitochondrial Respiration	NM_148173.1:385
+GMPS-mRNA	-0.511	0.139	-0.783	-0.238	0.702	0.581	0.848	0.0213	0.158	loglinear	Nucleotide Synthesis	NM_003875.2:385
+SERINC3-mRNA	-0.159	0.0433	-0.244	-0.0737	0.896	0.845	0.95	0.0216	0.158	loglinear	Glutamine Metabolism	NM_006811.2:185
+ATF4-mRNA	0.383	0.105	0.177	0.59	1.3	1.13	1.5	0.022	0.159	loglinear	MAPK, PI3K, Transcriptional Regulation	NM_001675.2:1151
+TBK1-mRNA	0.397	0.112	0.178	0.616	1.32	1.13	1.53	0.0237	0.169	loglinear	Cytokine & Chemokine Signaling, TLR Signaling	NM_013254.2:1610
+LTA4H-mRNA	-0.876	0.25	-1.37	-0.386	0.545	0.388	0.765	0.0248	0.169	lm.nb	Amino Acid Synthesis	NM_001256643.1:1140
+PSMC1-mRNA	0.197	0.0563	0.0868	0.308	1.15	1.06	1.24	0.0249	0.169	loglinear	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_002802.2:58
+HLA-C-mRNA	0.672	0.192	0.295	1.05	1.59	1.23	2.07	0.0251	0.169	lm.nb	Antigen Presentation, Cytokine & Chemokine Signaling, Endocytosis	NM_002117.4:895
+RPL23-mRNA	-0.47	0.135	-0.734	-0.205	0.722	0.601	0.867	0.0253	0.169	lm.nb	Myc	NM_000978.3:71
+BTK-mRNA	0.309	0.0892	0.135	0.484	1.24	1.1	1.4	0.0256	0.169	loglinear	Antigen Presentation, NF-kB, TLR Signaling	NM_000061.1:570
+UCK2-mRNA	-0.496	0.143	-0.776	-0.216	0.709	0.584	0.861	0.0256	0.169	loglinear	Nucleotide Salvage, Nucleotide Synthesis	NM_012474.3:730
+STAT3-mRNA	0.459	0.134	0.196	0.722	1.37	1.15	1.65	0.0267	0.17	lm.nb	Cytokine & Chemokine Signaling, Transcriptional Regulation	NM_003150.3:2060
+NDUFB8-mRNA	-0.493	0.144	-0.777	-0.21	0.71	0.584	0.864	0.0269	0.17	lm.nb	Mitochondrial Respiration	NM_001284367.1:204
+PLA2G15-mRNA	-0.481	0.141	-0.757	-0.205	0.717	0.592	0.868	0.027	0.17	loglinear	Lysosomal Degradation	NM_012320.3:900
+PDK2-mRNA	-0.945	0.277	-1.49	-0.401	0.519	0.356	0.757	0.0271	0.17	lm.nb	Mitochondrial Respiration	NM_002611.3:435
+TXNRD1-mRNA	0.639	0.189	0.268	1.01	1.56	1.2	2.01	0.0279	0.172	lm.nb	p53 Pathway	NM_001093771.1:1009
+TFRC-mRNA	-0.496	0.15	-0.79	-0.202	0.709	0.578	0.869	0.0297	0.18	lm.nb	Endocytosis, Myc	NM_003234.1:1220
+KEAP1-mRNA	0.4	0.121	0.162	0.637	1.32	1.12	1.55	0.0299	0.18	loglinear	Antigen Presentation, IDH12 Activity, KEAP1NRF2 Pathway	NM_012289.3:561
+NUP62-mRNA	0.278	0.0851	0.111	0.445	1.21	1.08	1.36	0.0309	0.183	loglinear	Cell Cycle, Cytokine & Chemokine Signaling, Glycolysis	NM_016553.3:457
+HLA-A-mRNA	0.502	0.154	0.199	0.805	1.42	1.15	1.75	0.0313	0.183	lm.nb	Antigen Presentation, Cytokine & Chemokine Signaling, Endocytosis	NM_002116.5:1000
+CCNA1-mRNA	1.73	0.533	0.681	2.77	3.31	1.6	6.82	0.0317	0.183	lm.nb	AMPK, Cell Cycle, DNA Damage Repair	NM_003914.3:1605
+RICTOR-mRNA	0.565	0.175	0.223	0.908	1.48	1.17	1.88	0.0318	0.183	lm.nb	mTOR	NM_152756.3:3097
+HLA-E-mRNA	0.745	0.231	0.292	1.2	1.68	1.22	2.29	0.0322	0.183	lm.nb	Antigen Presentation, Cytokine & Chemokine Signaling, Endocytosis	NM_005516.5:1287
+GAPVD1-mRNA	-0.306	0.0951	-0.492	-0.119	0.809	0.711	0.921	0.0324	0.183	loglinear	Endocytosis	NM_001282679.1:380
+TECR-mRNA	-0.367	0.115	-0.591	-0.142	0.776	0.664	0.907	0.0331	0.185	loglinear	Fatty Acid Synthesis	NR_038104.1:574
+GLUL-mRNA	0.394	0.128	0.143	0.644	1.31	1.1	1.56	0.0369	0.203	loglinear	Amino Acid Synthesis, Arginine Metabolism, Glutamine Metabolism	NM_001033044.2:2645
+CD68-mRNA	0.429	0.141	0.153	0.705	1.35	1.11	1.63	0.0383	0.209	loglinear	Lysosomal Degradation	NM_001251.2:1140
+TRAF1-mRNA	1.35	0.445	0.475	2.22	2.54	1.39	4.66	0.0389	0.209	lm.nb	NF-kB	NM_005658.3:3735
+CHMP6-mRNA	0.34	0.113	0.119	0.562	1.27	1.09	1.48	0.0395	0.209	loglinear	Autophagy, Endocytosis	NM_024591.4:346
+NPM1-mRNA	-0.536	0.178	-0.886	-0.187	0.69	0.541	0.879	0.0396	0.209	lm.nb	Cell Cycle, Myc	NM_002520.6:910
+PIK3CD-mRNA	-0.623	0.208	-1.03	-0.216	0.649	0.489	0.861	0.04	0.209	lm.nb	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_005026.3:2978
+RRAGC-mRNA	0.423	0.142	0.145	0.701	1.34	1.11	1.63	0.0405	0.21	loglinear	Autophagy, mTOR, p53 Pathway	NM_022157.2:1199
+PGD-mRNA	0.379	0.129	0.127	0.632	1.3	1.09	1.55	0.0421	0.216	lm.nb	Pentose Phosphate Pathway	NM_002631.2:1472
+MSH2-mRNA	-0.608	0.207	-1.01	-0.202	0.656	0.495	0.869	0.0425	0.216	lm.nb	DNA Damage Repair	NM_000251.1:2105
+FLT1-mRNA	1.51	0.523	0.49	2.54	2.86	1.4	5.81	0.0442	0.222	lm.nb	Cytokine & Chemokine Signaling, MAPK, PI3K	NM_002019.4:530
+AMPD2-mRNA	-0.352	0.122	-0.591	-0.113	0.783	0.664	0.925	0.0447	0.222	loglinear	Nucleotide Salvage, Nucleotide Synthesis	NM_004037.6:3095
+TET2-mRNA	0.368	0.13	0.114	0.622	1.29	1.08	1.54	0.0468	0.23	loglinear	IDH12 Activity	NM_001127208.2:2882
+SLC7A5-mRNA	-0.332	0.117	-0.563	-0.102	0.794	0.677	0.932	0.0473	0.23	loglinear	Amino Acid Transporters, mTOR	NM_003486.5:785
+CD84-mRNA	0.314	0.112	0.0952	0.533	1.24	1.07	1.45	0.0482	0.23	loglinear	NA	NM_001184879.1:28
+MTOR-mRNA	-0.354	0.126	-0.602	-0.107	0.782	0.659	0.929	0.0486	0.23	loglinear	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, mTOR, p53 Pathway	NM_004958.3:1865
+IDH3A-mRNA	-0.677	0.243	-1.15	-0.201	0.626	0.45	0.87	0.0495	0.23	lm.nb	Mitochondrial Respiration	NM_005530.2:1521
+NADK-mRNA	0.691	0.249	0.202	1.18	1.61	1.15	2.27	0.0503	0.23	lm.nb	Vitamin & Cofactor Metabolism	NM_001198993.1:1558
+EPC1-mRNA	0.403	0.146	0.118	0.689	1.32	1.08	1.61	0.0505	0.23	loglinear	Epigenetic Regulation	NM_025209.2:1615
+PGM2-mRNA	-0.27	0.0977	-0.461	-0.0785	0.829	0.726	0.947	0.0507	0.23	loglinear	Glycolysis, Nucleotide Synthesis, Pentose Phosphate Pathway	NM_018290.3:295
+HSPA4-mRNA	-0.332	0.12	-0.567	-0.0959	0.795	0.675	0.936	0.051	0.23	loglinear	Myc	NM_002154.3:1225
+COPS6-mRNA	-0.354	0.129	-0.607	-0.101	0.782	0.657	0.932	0.0516	0.23	loglinear	DNA Damage Repair, Endocytosis	NM_006833.4:860
+SLC16A3-mRNA	0.389	0.142	0.111	0.667	1.31	1.08	1.59	0.0519	0.23	lm.nb	Mitochondrial Respiration	NM_004207.2:370
+TLR2-mRNA	0.625	0.23	0.174	1.08	1.54	1.13	2.11	0.0532	0.23	lm.nb	Antigen Presentation, PI3K, TLR Signaling	NM_003264.3:2402
+NCOA2-mRNA	0.433	0.16	0.119	0.746	1.35	1.09	1.68	0.053900000000000003	0.23	lm.nb	Epigenetic Regulation, Mitochondrial Respiration	NM_006540.2:1045
+SHMT2-mRNA	-0.242	0.0899	-0.419	-0.0662	0.845	0.748	0.955	0.0543	0.23	loglinear	Amino Acid Synthesis, Vitamin & Cofactor Metabolism	NM_001166356.1:1460
+ATP5F1D-mRNA	-0.409	0.152	-0.707	-0.112	0.753	0.613	0.925	0.0543	0.23	lm.nb	Mitochondrial Respiration	NM_001687.4:184
+MAT2A-mRNA	0.242	0.0899	0.0659	0.418	1.18	1.05	1.34	0.0545	0.23	loglinear	Amino Acid Synthesis	NM_005911.4:805
+TDO2-mRNA	0.586	0.218	0.159	1.01	1.5	1.12	2.02	0.0548	0.23	lm.nb	TryptophanKynurenine Metabolism	NM_005651.2:495
+RPIA-mRNA	-0.577	0.215	-0.998	-0.156	0.67	0.501	0.897	0.0549	0.23	lm.nb	Pentose Phosphate Pathway	NM_144563.2:1588
+CTSA-mRNA	-0.407	0.152	-0.704	-0.11	0.754	0.614	0.927	0.055	0.23	lm.nb	Antigen Presentation, Lysosomal Degradation	NM_001127695.1:1540
+NFKB1-mRNA	0.384	0.143	0.103	0.665	1.31	1.07	1.59	0.0552	0.23	loglinear	Cytokine & Chemokine Signaling, Epigenetic Regulation, MAPK, NF-kB, PI3K, TCR & Costimulatory Signaling, TLR Signaling, Transcriptional Regulation	NM_003998.2:1675
+KPNA2-mRNA	-0.498	0.187	-0.865	-0.131	0.708	0.549	0.913	0.0563	0.232	lm.nb	Cytokine & Chemokine Signaling, DNA Damage Repair	NM_002266.2:917
+ECHS1-mRNA	-0.488	0.184	-0.847	-0.128	0.713	0.556	0.915	0.0566	0.232	lm.nb	Amino Acid Synthesis, Fatty Acid Oxidation, TryptophanKynurenine Metabolism	NM_004092.3:125
+HIF1A-mRNA	0.506	0.194	0.126	0.885	1.42	1.09	1.85	0.0594	0.239	lm.nb	Autophagy, Cytokine & Chemokine Signaling, Hypoxia, Transcriptional Regulation	NM_001530.2:1985
+IL4I1-mRNA	0.89	0.341	0.221	1.56	1.85	1.17	2.94	0.0595	0.239	lm.nb	Amino Acid Synthesis, TryptophanKynurenine Metabolism	NM_152899.1:1452
+PIK3C2A-mRNA	-0.12	0.046	-0.21	-0.0295	0.92	0.865	0.98	0.06	0.239	loglinear	Endocytosis	NM_002645.1:3505
+MAPKAP1-mRNA	-0.623	0.24	-1.09	-0.153	0.65	0.469	0.9	0.0602	0.239	lm.nb	mTOR	NM_001006617.1:1188
+TXN2-mRNA	-0.153	0.0591	-0.269	-0.0374	0.899	0.83	0.974	0.0605	0.239	loglinear	Reactive Oxygen Response	NM_012473.3:192
+TRAF6-mRNA	0.411	0.159	0.0986	0.723	1.33	1.07	1.65	0.0614	0.24	loglinear	Autophagy, Cytokine & Chemokine Signaling, Endocytosis, MAPK, NF-kB, TLR Signaling	NM_145803.2:745
+GART-mRNA	-0.368	0.143	-0.648	-0.087	0.775	0.638	0.941	0.0621	0.241	loglinear	Nucleotide Synthesis	NM_000819.3:370
+GPS1-mRNA	-0.408	0.159	-0.72	-0.0956	0.754	0.607	0.936	0.0627	0.242	loglinear	DNA Damage Repair, Endocytosis	NM_004127.4:605
+NAGLU-mRNA	-0.387	0.153	-0.688	-0.0871	0.765	0.621	0.941	0.0648	0.248	loglinear	Lysosomal Degradation	NM_000263.3:696
+RPTOR-mRNA	-0.567	0.226	-1.01	-0.125	0.675	0.497	0.917	0.0658	0.25	loglinear	AMPK, Autophagy, PI3K, mTOR, p53 Pathway	NM_020761.2:6665
+RBKS-mRNA	-0.707	0.284	-1.26	-0.151	0.612	0.417	0.901	0.0673	0.253	loglinear	Pentose Phosphate Pathway	NM_022128.2:914
+GOT2-mRNA	-0.4	0.161	-0.715	-0.0846	0.758	0.609	0.943	0.0678	0.253	lm.nb	Amino Acid Synthesis, Arginine Metabolism, Glutamine Metabolism	NM_002080.2:2145
+PDHA1-mRNA	-0.481	0.194	-0.861	-0.101	0.716	0.55	0.932	0.0682	0.253	lm.nb	Glycolysis, Mitochondrial Respiration	NM_000284.3:1080
+PLK1-mRNA	-0.75	0.304	-1.35	-0.154	0.595	0.394	0.898	0.0691	0.253	lm.nb	Cell Cycle	NM_005030.3:535
+TFAM-mRNA	-0.533	0.216	-0.957	-0.11	0.691	0.515	0.927	0.0692	0.253	lm.nb	Mitochondrial Respiration	NM_003201.1:85
+PDPK1-mRNA	-0.274	0.111	-0.492	-0.0554	0.827	0.711	0.962	0.07	0.255	loglinear	AMPK, Autophagy, PI3K, TCR & Costimulatory Signaling, mTOR	NM_002613.3:5935
+TYMP-mRNA	0.533	0.218	0.105	0.962	1.45	1.08	1.95	0.0712	0.257	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_001953.3:719
+NDUFS7-mRNA	-0.345	0.144	-0.628	-0.0623	0.787	0.647	0.958	0.0751	0.266	lm.nb	Mitochondrial Respiration	NM_024407.4:376
+IL10-mRNA	0.792	0.332	0.141	1.44	1.73	1.1	2.72	0.0758	0.266	lm.nb	Cytokine & Chemokine Signaling, TCR & Costimulatory Signaling	NM_000572.2:230
+STAM2-mRNA	0.304	0.128	0.053900000000000003	0.554	1.23	1.04	1.47	0.0758	0.266	loglinear	Cytokine & Chemokine Signaling, Endocytosis	NM_005843.4:1455
+PRKAB2-mRNA	0.426	0.179	0.0754	0.777	1.34	1.05	1.71	0.0759	0.266	loglinear	AMPK, Autophagy, Fatty Acid Oxidation, Mitochondrial Respiration, mTOR, p53 Pathway	NM_005399.3:1600
+CTSS-mRNA	0.612	0.258	0.107	1.12	1.53	1.08	2.17	0.0763	0.266	lm.nb	Antigen Presentation, Lysosomal Degradation, TLR Signaling	NM_004079.3:685
+STAT6-mRNA	0.341	0.144	0.058	0.623	1.27	1.04	1.54	0.0775	0.268	lm.nb	Cytokine & Chemokine Signaling, Transcriptional Regulation	NM_003153.3:2030
+HK2-mRNA	0.355	0.151	0.06	0.651	1.28	1.04	1.57	0.0778	0.268	lm.nb	Glycolysis	NM_000189.4:6880
+KRAS-mRNA	0.196	0.0835	0.032	0.359	1.15	1.02	1.28	0.0791	0.271	loglinear	Autophagy, Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR	NM_033360.2:267
+SHMT1-mRNA	-0.695	0.298	-1.28	-0.112	0.618	0.412	0.925	0.0797	0.271	lm.nb	Amino Acid Synthesis, Vitamin & Cofactor Metabolism	NM_148918.1:1800
+CCL13-mRNA	1.98	0.857	0.302	3.66	3.95	1.23	12.7	0.0818	0.274	lm.nb	Cytokine & Chemokine Signaling, NF-kB	NM_005408.2:320
+NDUFB7-mRNA	-0.3	0.13	-0.555	-0.0453	0.812	0.681	0.969	0.0822	0.274	lm.nb	Mitochondrial Respiration	NM_004146.5:239
+RPS6KB2-mRNA	-0.679	0.294	-1.26	-0.102	0.625	0.419	0.932	0.0824	0.274	lm.nb	AMPK, Autophagy, PI3K, mTOR	NM_003952.2:980
+ASL-mRNA	-0.281	0.122	-0.52	-0.0418	0.823	0.697	0.971	0.0828	0.274	loglinear	Amino Acid Synthesis, Arginine Metabolism, IDH12 Activity	NM_000048.3:130
+RBBP5-mRNA	0.272	0.119	0.0395	0.505	1.21	1.03	1.42	0.0836	0.275	loglinear	Epigenetic Regulation	NM_005057.2:325
+NFKB2-mRNA	0.31	0.136	0.0432	0.576	1.24	1.03	1.49	0.085	0.278	loglinear	Cytokine & Chemokine Signaling, Epigenetic Regulation, MAPK, NF-kB, TLR Signaling, Transcriptional Regulation	NM_002502.2:825
+SMAD3-mRNA	-0.565	0.25	-1.05	-0.0751	0.676	0.481	0.949	0.0866	0.281	lm.nb	Cell Cycle, Cytokine & Chemokine Signaling, Endocytosis	NM_005902.3:4220
+NME1-mRNA	-0.525	0.235	-0.985	-0.0652	0.695	0.505	0.956	0.0888	0.286	lm.nb	Myc, Nucleotide Synthesis	NM_000269.2:500
+IDH2-mRNA	-0.29	0.13	-0.545	-0.0357	0.818	0.685	0.976	0.0891	0.286	loglinear	IDH12 Activity, Mitochondrial Respiration	NM_002168.2:944
+MTF1-mRNA	0.255	0.116	0.028	0.483	1.19	1.02	1.4	0.0926	0.293	loglinear	Reactive Oxygen Response	NM_005955.2:210
+ERN1-mRNA	0.247	0.112	0.0271	0.468	1.19	1.02	1.38	0.0926	0.293	loglinear	Autophagy	NM_001433.2:435
+DCK-mRNA	-0.433	0.198	-0.822	-0.045	0.741	0.566	0.969	0.094	0.296	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_000788.2:310
+MAP2K3-mRNA	0.395	0.182	0.0378	0.753	1.32	1.03	1.69	0.0961	0.3	lm.nb	Cytokine & Chemokine Signaling, MAPK, TLR Signaling	NM_145109.1:370
+PTEN-mRNA	0.507	0.234	0.0476	0.967	1.42	1.03	1.95	0.0965	0.3	lm.nb	Autophagy, PI3K, mTOR, p53 Pathway	NM_000314.3:1675
+NME2-mRNA	-0.508	0.235	-0.969	-0.047	0.703	0.511	0.968	0.0969	0.3	lm.nb	Myc, Nucleotide Synthesis	NM_001018137.2:669
+PSME2-mRNA	0.764	0.355	0.0678	1.46	1.7	1.05	2.75	0.0979	0.301	lm.nb	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_002818.2:315
+RPLP0-mRNA	-0.533	0.249	-1.02	-0.0458	0.691	0.493	0.969	0.0986	0.301	lm.nb	Cytokine & Chemokine Signaling	NM_001002.3:250
+A2M-mRNA	-0.52	0.245	-1	-0.0399	0.697	0.5	0.973	0.101	0.304	lm.nb	Cytokine & Chemokine Signaling	NM_000014.4:1685
+ADK-mRNA	-0.527	0.248	-1.01	-0.0402	0.694	0.496	0.973	0.101	0.304	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_001123.2:355
+GBA-mRNA	-0.441	0.208	-0.848	-0.0332	0.737	0.556	0.977	0.101	0.304	lm.nb	Lysosomal Degradation	NM_001005742.2:1695
+EFNA4-mRNA	0.376	0.178	0.0258	0.725	1.3	1.02	1.65	0.103	0.306	loglinear	MAPK, PI3K	NM_005227.2:380
+TPR-mRNA	-0.427	0.203	-0.825	-0.0292	0.744	0.564	0.98	0.103	0.306	lm.nb	Cell Cycle, Cytokine & Chemokine Signaling, Glycolysis	NM_003292.2:6825
+LY86-mRNA	0.681	0.325	0.0446	1.32	1.6	1.03	2.49	0.104	0.307	lm.nb	TLR Signaling	NM_004271.3:255
+ZNF43-mRNA	0.33	0.161	0.0145	0.646	1.26	1.01	1.56	0.11	0.322	lm.nb	Transcriptional Regulation	NM_003423.2:3835
+KMT2E-mRNA	0.292	0.143	0.0119	0.571	1.22	1.01	1.49	0.111	0.322	loglinear	Amino Acid Synthesis, Epigenetic Regulation, Transcriptional Regulation	NM_018682.3:1541
+PRIM2-mRNA	0.254	0.125	0.00932	0.499	1.19	1.01	1.41	0.112	0.324	loglinear	Cell Cycle, Nucleotide Synthesis	NM_001282488.1:124
+UCKL1-mRNA	-0.331	0.164	-0.653	-0.00901	0.795	0.636	0.994	0.114	0.329	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_001193379.1:825
+CD36-mRNA	-0.919	0.46	-1.82	-0.0178	0.529	0.283	0.988	0.116	0.333	lm.nb	AMPK, Antigen Presentation, Cytokine & Chemokine Signaling, TLR Signaling	NM_000072.3:707
+NKG7-mRNA	0.257	0.13	0.00337	0.511	1.2	1	1.43	0.118	0.336	lm.nb	NA	NM_005601.3:633
+IDH3G-mRNA	-0.0966	0.0487	-0.192	-0.00108	0.935	0.875	0.999	0.119	0.336	loglinear	Mitochondrial Respiration	NM_004135.2:390
+ARID1B-mRNA	-0.221	0.113	-0.443	1.41e-4	0.858	0.736	1	0.122	0.343	loglinear	Epigenetic Regulation	NM_020732.3:6335
+GABARAP-mRNA	-0.15	0.0772	-0.301	0.0015	0.901	0.812	1	0.124	0.346	loglinear	Autophagy	NM_007278.1:233
+GPI-mRNA	-0.192	0.0988	-0.385	0.00205	0.876	0.766	1	0.124	0.346	loglinear	Glycolysis, Pentose Phosphate Pathway, p53 Pathway	NM_000175.2:1695
+GLUD1-mRNA	-0.207	0.107	-0.416	0.00247	0.866	0.749	1	0.125	0.346	loglinear	Amino Acid Synthesis, Arginine Metabolism, Glutamine Metabolism, Mitochondrial Respiration	NM_005271.2:2680
+COX4I1-mRNA	-0.309	0.161	-0.625	0.00639	0.807	0.649	1	0.127	0.349	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_001318797.1:50
+ATG101-mRNA	0.326	0.17	-0.00693	0.659	1.25	0.995	1.58	0.127	0.349	loglinear	Autophagy	NM_021934.4:939
+CDK9-mRNA	0.242	0.128	-0.00876	0.492	1.18	0.994	1.41	0.132	0.359	loglinear	Nucleotide Synthesis	NM_001261.2:400
+COX5A-mRNA	-0.227	0.122	-0.466	0.0113	0.854	0.724	1.01	0.135	0.367	loglinear	Mitochondrial Respiration, p53 Pathway	NM_004255.3:315
+GSK3B-mRNA	-0.0217	0.0118	-0.0448	0.00138	0.985	0.969	1	0.139	0.376	loglinear	Cell Cycle, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_002093.2:925
+IDH3B-mRNA	-0.193	0.106	-0.4	0.0134	0.875	0.758	1.01	0.141	0.378	loglinear	Mitochondrial Respiration	NM_001258384.1:556
+H6PD-mRNA	-0.573	0.314	-1.19	0.0417	0.672	0.439	1.03	0.142	0.379	lm.nb	Pentose Phosphate Pathway	NM_004285.3:7250
+FPR1-mRNA	0.798	0.442	-0.068	1.66	1.74	0.954	3.17	0.145	0.386	lm.nb	Cytokine & Chemokine Signaling	NM_002029.3:350
+MAP1LC3B-mRNA	0.239	0.133	-0.022	0.501	1.18	0.985	1.41	0.147	0.389	loglinear	Autophagy	NM_022818.4:1685
+HAAO-mRNA	-0.483	0.272	-1.02	0.0493	0.715	0.495	1.03	0.15	0.392	lm.nb	TryptophanKynurenine Metabolism	NM_012205.2:243
+SIGLEC5-mRNA	0.535	0.301	-0.0549	1.12	1.45	0.963	2.18	0.15	0.392	lm.nb	NA	NM_003830.3:1405
+GPX1-mRNA	-0.264	0.149	-0.555	0.0274	0.833	0.68	1.02	0.15	0.392	loglinear	Reactive Oxygen Response	NM_000581.2:745
+ACOX1-mRNA	-0.382	0.216	-0.805	0.0409	0.767	0.572	1.03	0.151	0.392	lm.nb	Fatty Acid Oxidation	NM_004035.5:2950
+RANBP2-mRNA	-0.45	0.255	-0.951	0.05	0.732	0.517	1.04	0.152	0.393	lm.nb	Cell Cycle, Cytokine & Chemokine Signaling, Glycolysis	NM_006267.4:5384
+MPC2-mRNA	-0.484	0.28	-1.03	0.0647	0.715	0.489	1.05	0.159	0.408	lm.nb	Mitochondrial Respiration	NM_001143674.1:285
+PTGES-mRNA	0.812	0.472	-0.112	1.74	1.76	0.925	3.33	0.16	0.409	lm.nb	Glutamine Metabolism	NM_004878.4:303
+PRKAG2-mRNA	0.537	0.315	-0.0803	1.15	1.45	0.946	2.22	0.163	0.415	lm.nb	AMPK, Autophagy, Fatty Acid Oxidation, Mitochondrial Respiration, mTOR, p53 Pathway	NM_016203.3:1895
+CD14-mRNA	0.492	0.293	-0.0829	1.07	1.41	0.944	2.1	0.169	0.426	lm.nb	Antigen Presentation, MAPK, NF-kB, TLR Signaling	NM_000591.2:885
+NDUFB10-mRNA	-0.426	0.255	-0.925	0.0732	0.744	0.527	1.05	0.17	0.426	lm.nb	Mitochondrial Respiration	NM_004548.2:155
+PRDX5-mRNA	-0.505	0.302	-1.1	0.0875	0.705	0.467	1.06	0.17	0.426	lm.nb	Reactive Oxygen Response	NM_012094.4:600
+FAHD1-mRNA	-0.357	0.219	-0.787	0.0734	0.781	0.58	1.05	0.179	0.447	lm.nb	Amino Acid Synthesis, Mitochondrial Respiration	NM_031208.3:542
+VHL-mRNA	0.137	0.0858	-0.0307	0.306	1.1	0.979	1.24	0.184	0.455	loglinear	Antigen Presentation, Hypoxia	NM_000551.2:1280
+IDH1-mRNA	-0.172	0.108	-0.383	0.0386	0.887	0.767	1.03	0.185	0.455	loglinear	IDH12 Activity, Reactive Oxygen Response, Vitamin & Cofactor Metabolism	NM_005896.3:418
+SLC7A11-mRNA	0.799	0.5	-0.181	1.78	1.74	0.882	3.43	0.185	0.455	lm.nb	Amino Acid Transporters, Reactive Oxygen Response	NM_014331.3:636
+ODC1-mRNA	-0.683	0.43	-1.53	0.16	0.623	0.347	1.12	0.188	0.458	lm.nb	Amino Acid Synthesis, Myc	NM_002539.1:950
+SMAD4-mRNA	0.191	0.122	-0.0475	0.43	1.14	0.968	1.35	0.192	0.463	loglinear	Cell Cycle	NM_005359.3:1370
+NADK2-mRNA	-0.199	0.127	-0.448	0.0497	0.871	0.733	1.04	0.192	0.463	loglinear	Vitamin & Cofactor Metabolism	NM_153013.3:315
+ACAT2-mRNA	-0.608	0.388	-1.37	0.152	0.656	0.387	1.11	0.192	0.463	lm.nb	Amino Acid Synthesis, Fatty Acid Oxidation, TryptophanKynurenine Metabolism	NM_005891.2:910
+CAB39-mRNA	-0.0895	0.0585	-0.204	0.0251	0.94	0.868	1.02	0.201	0.481	loglinear	AMPK, mTOR	NM_001130849.1:1238
+HERC1-mRNA	-0.404	0.266	-0.925	0.117	0.756	0.527	1.08	0.203	0.484	lm.nb	Antigen Presentation, Myc	NM_003922.3:300
+HK3-mRNA	0.248	0.163	-0.0724	0.568	1.19	0.951	1.48	0.204	0.484	lm.nb	Glycolysis	NM_002115.1:495
+MAPT-mRNA	-0.362	0.24	-0.831	0.108	0.778	0.562	1.08	0.206	0.484	lm.nb	MAPK	NM_016834.3:1205
+CSF3R-mRNA	0.295	0.196	-0.0894	0.68	1.23	0.94	1.6	0.207	0.484	lm.nb	Cytokine & Chemokine Signaling, PI3K	NM_000760.3:2066
+KYNU-mRNA	0.952	0.633	-0.289	2.19	1.93	0.818	4.57	0.207	0.484	lm.nb	TryptophanKynurenine Metabolism	NM_003937.2:738
+MAP2K1-mRNA	0.265	0.176	-0.0809	0.61	1.2	0.945	1.53	0.208	0.484	lm.nb	Autophagy, Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, TLR Signaling, mTOR	NM_002755.2:970
+ZNF254-mRNA	0.358	0.241	-0.114	0.831	1.28	0.924	1.78	0.211	0.491	loglinear	Transcriptional Regulation	NM_203282.3:1986
+ARID2-mRNA	-0.13	0.0899	-0.306	0.046	0.914	0.809	1.03	0.221	0.511	loglinear	Epigenetic Regulation	NM_152641.2:3355
+SREBF2-mRNA	-0.328	0.23	-0.778	0.122	0.796	0.583	1.09	0.226	0.516	lm.nb	Transcriptional Regulation	NM_004599.2:665
+SERINC5-mRNA	-0.196	0.137	-0.465	0.0731	0.873	0.724	1.05	0.227	0.516	loglinear	Glutamine Metabolism	NM_001174071.2:526
+PTGER4-mRNA	0.253	0.177	-0.0945	0.601	1.19	0.937	1.52	0.227	0.516	loglinear	NA	NM_000958.2:976
+RPS6KB1-mRNA	-0.214	0.15	-0.508	0.0802	0.862	0.703	1.06	0.227	0.516	loglinear	AMPK, Autophagy, PI3K, mTOR	NM_003161.2:310
+SNF8-mRNA	-0.15	0.107	-0.36	0.0601	0.901	0.779	1.04	0.234	0.528	loglinear	Endocytosis	NM_001317192.1:234
+PYCR2-mRNA	-0.171	0.122	-0.41	0.0688	0.888	0.752	1.05	0.235	0.528	loglinear	Amino Acid Synthesis, Glutamine Metabolism	NM_013328.2:1250
+COX6B1-mRNA	-0.192	0.138	-0.462	0.078	0.875	0.726	1.06	0.236	0.528	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_001863.4:264
+CMKLR1-mRNA	0.246	0.177	-0.101	0.593	1.19	0.933	1.51	0.237	0.528	lm.nb	MAPK, PI3K	NM_004072.2:762
+FDX1-mRNA	0.228	0.166	-0.0987	0.554	1.17	0.934	1.47	0.243	0.538	lm.nb	KEAP1NRF2 Pathway, Reactive Oxygen Response	NM_004109.4:618
+EEA1-mRNA	-0.288	0.211	-0.702	0.125	0.819	0.615	1.09	0.243	0.538	lm.nb	Endocytosis, TLR Signaling	NM_003566.3:2035
+SLC25A1-mRNA	-0.324	0.239	-0.791	0.144	0.799	0.578	1.11	0.247	0.544	lm.nb	Fatty Acid Synthesis	NM_005984.2:964
+HRAS-mRNA	-0.472	0.351	-1.16	0.215	0.721	0.448	1.16	0.249	0.546	lm.nb	Autophagy, Cytokine & Chemokine Signaling, Endocytosis, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR	NM_005343.2:396
+BCL2A1-mRNA	0.287	0.217	-0.139	0.713	1.22	0.908	1.64	0.257	0.561	lm.nb	NF-kB	NM_004049.2:80
+NDUFA7-mRNA	-0.175	0.134	-0.437	0.0868	0.886	0.739	1.06	0.26	0.566	loglinear	Mitochondrial Respiration	NM_005001.2:373
+MYB-mRNA	-1.53	1.17	-3.82	0.769	0.347	0.0708	1.7	0.262	0.568	lm.nb	PI3K, Transcriptional Regulation	NM_001130173.1:183
+CTCF-mRNA	-0.177	0.137	-0.445	0.0915	0.885	0.735	1.07	0.266	0.573	loglinear	IDH12 Activity	NM_001191022.1:490
+NCAPH-mRNA	-0.512	0.397	-1.29	0.266	0.701	0.409	1.2	0.267	0.573	lm.nb	Cell Cycle	NM_015341.3:1550
+ASS1-mRNA	-0.314	0.252	-0.807	0.179	0.804	0.572	1.13	0.28	0.599	lm.nb	Amino Acid Synthesis, Arginine Metabolism, IDH12 Activity	NM_000050.4:1275
+PTPRC-mRNA	0.373	0.304	-0.222	0.968	1.29	0.857	1.96	0.287	0.61	lm.nb	TCR & Costimulatory Signaling	NM_080923.2:154
+SDSL-mRNA	0.423	0.346	-0.255	1.1	1.34	0.838	2.14	0.289	0.612	lm.nb	Amino Acid Synthesis	NM_138432.2:303
+BAD-mRNA	-0.183	0.151	-0.479	0.113	0.881	0.717	1.08	0.292	0.616	loglinear	Autophagy, PI3K	NM_004322.3:652
+SMAD2-mRNA	-0.105	0.0868	-0.275	0.0655	0.93	0.827	1.05	0.294	0.617	loglinear	Cell Cycle, Endocytosis	NM_005901.5:1678
+MAPK8-mRNA	0.182	0.151	-0.114	0.479	1.13	0.924	1.39	0.295	0.617	lm.nb	Autophagy, Cytokine & Chemokine Signaling, DNA Damage Repair, MAPK, TLR Signaling	NM_002750.2:945
+ADORA2A-mRNA	0.838	0.698	-0.529	2.21	1.79	0.693	4.61	0.296	0.617	lm.nb	TCR & Costimulatory Signaling	NM_000675.3:1095
+DERA-mRNA	-0.193	0.162	-0.51	0.124	0.875	0.702	1.09	0.299	0.62	loglinear	Pentose Phosphate Pathway	NM_015954.2:960
+PPM1A-mRNA	0.102	0.0861	-0.0664	0.271	1.07	0.955	1.21	0.3	0.62	loglinear	MAPK, mTOR	NM_021003.4:550
+UPP1-mRNA	0.555	0.468	-0.362	1.47	1.47	0.778	2.77	0.301	0.62	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_003364.2:925
+PSMA3-mRNA	0.223	0.188	-0.146	0.591	1.17	0.904	1.51	0.302	0.621	lm.nb	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_152132.1:465
+ACAA2-mRNA	-0.177	0.151	-0.472	0.118	0.885	0.721	1.09	0.305	0.624	lm.nb	Amino Acid Synthesis, Fatty Acid Oxidation	NM_006111.2:450
+NDUFA13-mRNA	-0.168	0.144	-0.45	0.115	0.89	0.732	1.08	0.31	0.631	loglinear	Mitochondrial Respiration	NM_015965.6:167
+TBXAS1-mRNA	-0.34	0.294	-0.917	0.237	0.79	0.53	1.18	0.312	0.633	lm.nb	Fatty Acid Synthesis	NM_001130966.2:1030
+PRPS1-mRNA	-0.129	0.113	-0.35	0.0914	0.914	0.785	1.07	0.315	0.636	loglinear	Nucleotide Synthesis, Pentose Phosphate Pathway	NM_002764.3:1081
+MYBL2-mRNA	-1.25	1.11	-3.42	0.917	0.42	0.0934	1.89	0.321	0.646	lm.nb	Cell Cycle, Transcriptional Regulation	NM_002466.2:445
+ITGB2-mRNA	-0.32	0.284	-0.877	0.238	0.801	0.545	1.18	0.324	0.649	lm.nb	Cytokine & Chemokine Signaling, TLR Signaling	NM_000211.2:520
+PIK3R4-mRNA	-0.171	0.152	-0.469	0.128	0.888	0.722	1.09	0.325	0.649	loglinear	Autophagy, TLR Signaling	NM_014602.1:3620
+NDUFA3-mRNA	-0.234	0.212	-0.649	0.181	0.851	0.638	1.13	0.332	0.66	lm.nb	Mitochondrial Respiration	NM_004542.3:75
+GMPR2-mRNA	-0.103	0.0947	-0.289	0.0826	0.931	0.819	1.06	0.338	0.667	loglinear	Nucleotide Salvage, Nucleotide Synthesis	NM_001002001.2:392
+SLC1A5-mRNA	-0.292	0.269	-0.82	0.236	0.817	0.566	1.18	0.339	0.667	lm.nb	Amino Acid Transporters	NM_001145144.1:180
+RB1CC1-mRNA	-0.138	0.128	-0.389	0.112	0.909	0.764	1.08	0.34	0.667	loglinear	Autophagy	NM_001083617.1:1860
+SLC2A14-mRNA	0.354	0.328	-0.288	0.997	1.28	0.819	2	0.341	0.667	lm.nb	Glucose Transport	NM_001286234.1:606
+ARF5-mRNA	-0.239	0.223	-0.675	0.198	0.847	0.626	1.15	0.344	0.667	lm.nb	Endocytosis	NM_001662.2:36
+NFAT5-mRNA	0.397	0.37	-0.329	1.12	1.32	0.796	2.18	0.344	0.667	lm.nb	Transcriptional Regulation	NM_173214.1:3290
+NDUFS8-mRNA	-0.377	0.352	-1.07	0.313	0.77	0.477	1.24	0.345	0.667	lm.nb	Mitochondrial Respiration, Reactive Oxygen Response	NM_002496.3:190
+PDP1-mRNA	-0.207	0.195	-0.588	0.175	0.867	0.665	1.13	0.349	0.668	loglinear	Mitochondrial Respiration	NM_001161778.1:950
+PRKAA1-mRNA	-0.0959	0.0904	-0.273	0.0814	0.936	0.828	1.06	0.349	0.668	loglinear	AMPK, Autophagy, PI3K, mTOR, p53 Pathway	NM_006251.5:366
+ADAL-mRNA	-0.067	0.0637	-0.192	0.0579	0.955	0.875	1.04	0.352	0.668	loglinear	Nucleotide Salvage	NM_001012969.2:890
+BCL2L1-mRNA	0.136	0.13	-0.118	0.391	1.1	0.921	1.31	0.353	0.668	lm.nb	Autophagy, Cytokine & Chemokine Signaling, NF-kB, PI3K	NM_138578.1:1560
+ENO1-mRNA	-0.29	0.277	-0.834	0.253	0.818	0.561	1.19	0.354	0.668	lm.nb	Glycolysis, Myc	NM_001428.2:1689
+KYAT3-mRNA	0.219	0.209	-0.191	0.629	1.16	0.876	1.55	0.354	0.668	lm.nb	Amino Acid Synthesis, TryptophanKynurenine Metabolism	NM_001008661.2:1445
+SCD-mRNA	-0.502	0.48	-1.44	0.438	0.706	0.368	1.36	0.354	0.668	lm.nb	AMPK, Fatty Acid Synthesis	NM_005063.4:2025
+LAMTOR4-mRNA	-0.2	0.192	-0.575	0.176	0.871	0.671	1.13	0.355	0.668	lm.nb	Autophagy, mTOR, p53 Pathway	NM_001008395.2:494
+GOT1-mRNA	-0.346	0.342	-1.02	0.324	0.787	0.494	1.25	0.369	0.691	lm.nb	Amino Acid Synthesis, Arginine Metabolism, Glutamine Metabolism	NM_002079.2:615
+STAT5A-mRNA	-0.161	0.162	-0.478	0.155	0.894	0.718	1.11	0.375	0.699	lm.nb	Cytokine & Chemokine Signaling, Transcriptional Regulation	NM_003152.2:3460
+SOS1-mRNA	0.155	0.157	-0.151	0.462	1.11	0.9	1.38	0.377	0.701	loglinear	Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR	NM_005633.2:1635
+STK11-mRNA	-0.204	0.208	-0.613	0.204	0.868	0.654	1.15	0.383	0.708	lm.nb	AMPK, Autophagy, PI3K, mTOR	NM_000455.4:2060
+GUSB-mRNA	-0.142	0.146	-0.428	0.143	0.906	0.743	1.1	0.385	0.708	lm.nb	Lysosomal Degradation	NM_000181.3:1899
+MRAS-mRNA	0.0913	0.0937	-0.0923	0.275	1.07	0.938	1.21	0.385	0.708	loglinear	Autophagy, MAPK	NM_001085049.2:1700
+PRDX1-mRNA	-0.37	0.381	-1.12	0.377	0.774	0.461	1.3	0.387	0.708	lm.nb	Reactive Oxygen Response, p53 Pathway	NM_002574.2:632
+SDHB-mRNA	-0.125	0.13	-0.38	0.129	0.917	0.768	1.09	0.39	0.71	loglinear	IDH12 Activity, Mitochondrial Respiration	NM_003000.2:245
+PIK3R1-mRNA	0.159	0.166	-0.165	0.484	1.12	0.892	1.4	0.39	0.71	lm.nb	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_181504.2:1105
+UQCR10-mRNA	-0.227	0.238	-0.694	0.24	0.854	0.618	1.18	0.394	0.715	lm.nb	Mitochondrial Respiration	NM_001003684.1:40
+MPC1-mRNA	-0.182	0.192	-0.558	0.195	0.882	0.679	1.14	0.397	0.718	lm.nb	Mitochondrial Respiration	NM_016098.2:210
+UQCRQ-mRNA	-0.28	0.297	-0.863	0.302	0.824	0.55	1.23	0.399	0.718	lm.nb	Mitochondrial Respiration	NM_014402.4:172
+GPX4-mRNA	-0.107	0.114	-0.329	0.116	0.929	0.796	1.08	0.4	0.718	loglinear	Reactive Oxygen Response	NM_001039847.1:435
+NUP205-mRNA	-0.18	0.192	-0.556	0.197	0.883	0.68	1.15	0.403	0.72	lm.nb	Cell Cycle, Cytokine & Chemokine Signaling, Glycolysis	NM_015135.1:5075
+WDR45-mRNA	0.138	0.149	-0.154	0.43	1.1	0.899	1.35	0.407	0.724	loglinear	Autophagy	NM_007075.3:1390
+NEU1-mRNA	-0.089	0.0969	-0.279	0.101	0.94	0.824	1.07	0.41	0.727	loglinear	Lysosomal Degradation	NM_000434.3:1508
+UBE2T-mRNA	-0.585	0.638	-1.84	0.666	0.667	0.28	1.59	0.411	0.727	lm.nb	DNA Damage Repair	NM_014176.3:595
+CDC20-mRNA	-0.915	1.01	-2.9	1.07	0.53	0.134	2.1	0.417	0.733	lm.nb	Antigen Presentation, Cell Cycle	NM_001255.2:430
+ARPC4-mRNA	0.119	0.131	-0.139	0.376	1.09	0.908	1.3	0.417	0.733	loglinear	Endocytosis	NM_005718.4:970
+KMT2A-mRNA	-0.324	0.359	-1.03	0.381	0.799	0.49	1.3	0.418	0.733	lm.nb	Amino Acid Synthesis, Epigenetic Regulation, Transcriptional Regulation	NM_005933.2:14000
+SLC16A6-mRNA	-0.63	0.714	-2.03	0.769	0.646	0.245	1.7	0.427	0.745	lm.nb	Amino Acid Transporters	NM_001174166.1:855
+AKT1S1-mRNA	0.17	0.207	-0.236	0.576	1.13	0.849	1.49	0.457	0.795	lm.nb	AMPK, Autophagy, mTOR	NM_032375.3:1850
+ATP5ME-mRNA	-0.23	0.282	-0.783	0.322	0.852	0.581	1.25	0.46	0.796	lm.nb	Mitochondrial Respiration	NM_007100.3:184
+CCNB2-mRNA	-0.347	0.427	-1.19	0.49	0.786	0.44	1.4	0.462	0.796	lm.nb	Cell Cycle	NM_004701.2:980
+PRKAG1-mRNA	0.087	0.107	-0.123	0.297	1.06	0.918	1.23	0.462	0.796	loglinear	AMPK, Autophagy, Mitochondrial Respiration, mTOR, p53 Pathway	NM_002733.3:825
+HMOX1-mRNA	0.486	0.609	-0.708	1.68	1.4	0.612	3.21	0.47	0.803	lm.nb	Cytokine & Chemokine Signaling, KEAP1NRF2 Pathway, Reactive Oxygen Response	NM_002133.2:781
+TK2-mRNA	-0.203	0.256	-0.704	0.298	0.869	0.614	1.23	0.472	0.803	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_004614.3:2165
+NSD1-mRNA	-0.15	0.19	-0.522	0.222	0.901	0.696	1.17	0.473	0.803	lm.nb	Amino Acid Synthesis, Epigenetic Regulation	NM_022455.4:3140
+CD209-mRNA	-0.082	0.105	-0.287	0.123	0.945	0.82	1.09	0.477	0.803	loglinear	NA	NM_001144899.1:950
+GAPDH-mRNA	-0.101	0.128	-0.352	0.151	0.933	0.783	1.11	0.477	0.803	lm.nb	Glycolysis	NM_001256799.1:386
+PRKAB1-mRNA	0.122	0.156	-0.185	0.428	1.09	0.88	1.35	0.48	0.803	loglinear	AMPK, Autophagy, Mitochondrial Respiration, mTOR, p53 Pathway	NM_006253.4:1550
+NDUFA6-mRNA	-0.166	0.215	-0.588	0.255	0.891	0.665	1.19	0.482	0.803	lm.nb	Mitochondrial Respiration, Reactive Oxygen Response	NM_002490.3:430
+CD274-mRNA	2.44	3.06	-3.57	8.44	5.42	0.0845	348	0.484	0.803	Wald	TCR & Costimulatory Signaling	NM_014143.3:1243
+KMT2D-mRNA	0.165	0.214	-0.255	0.584	1.12	0.838	1.5	0.485	0.803	lm.nb	Amino Acid Synthesis, Epigenetic Regulation, Transcriptional Regulation	NM_003482.3:6070
+HEXB-mRNA	-0.178	0.232	-0.634	0.277	0.884	0.645	1.21	0.486	0.803	lm.nb	Lysosomal Degradation	NM_000521.3:950
+PSMB3-mRNA	0.119	0.155	-0.185	0.423	1.09	0.879	1.34	0.487	0.803	lm.nb	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_002795.3:22
+FAH-mRNA	0.06	0.0785	-0.0939	0.214	1.04	0.937	1.16	0.487	0.803	loglinear	Amino Acid Synthesis	NM_000137.1:920
+ATF7-mRNA	0.107	0.14	-0.168	0.382	1.08	0.89	1.3	0.489	0.803	loglinear	Transcriptional Regulation	NM_001130060.1:203
+MAP2K2-mRNA	0.109	0.143	-0.171	0.389	1.08	0.888	1.31	0.489	0.803	lm.nb	Autophagy, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR	NM_030662.3:375
+CBR4-mRNA	-0.123	0.162	-0.442	0.195	0.918	0.736	1.14	0.49	0.803	loglinear	Fatty Acid Synthesis	NM_032783.4:520
+MAPK1-mRNA	-0.152	0.202	-0.549	0.245	0.9	0.684	1.18	0.494	0.807	lm.nb	Autophagy, Cell Cycle, Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, TLR Signaling, mTOR	NM_138957.2:430
+RPS6KA1-mRNA	-0.159	0.212	-0.576	0.257	0.896	0.671	1.2	0.496	0.807	lm.nb	Cytokine & Chemokine Signaling, MAPK, TLR Signaling, mTOR	NM_002953.3:2000
+ITGB1-mRNA	-0.247	0.337	-0.908	0.414	0.843	0.533	1.33	0.504	0.816	lm.nb	Cytokine & Chemokine Signaling, PI3K	NM_002211.3:355
+CCND1-mRNA	0.401	0.547	-0.671	1.47	1.32	0.628	2.77	0.504	0.816	lm.nb	AMPK, Cell Cycle, Cytokine & Chemokine Signaling, Epigenetic Regulation, PI3K	NM_053056.2:690
+PSMB1-mRNA	0.0878	0.122	-0.152	0.327	1.06	0.9	1.25	0.512	0.826	loglinear	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_002793.2:0
+S100A12-mRNA	0.409	0.577	-0.722	1.54	1.33	0.606	2.91	0.518	0.831	lm.nb	Cytokine & Chemokine Signaling, TLR Signaling	NM_005621.1:260
+TALDO1-mRNA	-0.101	0.143	-0.381	0.179	0.932	0.768	1.13	0.519	0.831	loglinear	Cytokine & Chemokine Signaling, Pentose Phosphate Pathway	NM_006755.1:262
+CCNA2-mRNA	-0.456	0.654	-1.74	0.826	0.729	0.3	1.77	0.524	0.838	lm.nb	AMPK, Cell Cycle, DNA Damage Repair, Myc	NM_001237.2:1210
+PDK1-mRNA	-0.195	0.282	-0.748	0.358	0.874	0.595	1.28	0.528	0.84	lm.nb	Mitochondrial Respiration	NM_002610.3:1170
+LAT-mRNA	-0.141	0.206	-0.545	0.262	0.907	0.686	1.2	0.53	0.84	lm.nb	NF-kB, TCR & Costimulatory Signaling	NM_001014987.1:1290
+AP2S1-mRNA	-0.0966	0.141	-0.373	0.18	0.935	0.772	1.13	0.531	0.84	loglinear	Antigen Presentation, Endocytosis	NM_021575.2:665
+MYC-mRNA	-0.0959	0.14	-0.371	0.179	0.936	0.773	1.13	0.532	0.84	lm.nb	Cell Cycle, Cytokine & Chemokine Signaling, MAPK, Myc, PI3K, Transcriptional Regulation	NM_002467.3:1610
+CTSD-mRNA	-0.123	0.18	-0.476	0.231	0.919	0.719	1.17	0.534	0.84	lm.nb	Antigen Presentation, Autophagy, Lysosomal Degradation	NM_001909.3:1495
+SOD1-mRNA	-0.0868	0.129	-0.34	0.166	0.942	0.79	1.12	0.538	0.844	loglinear	Cytokine & Chemokine Signaling, Reactive Oxygen Response	NM_000454.4:245
+ACAP2-mRNA	-0.077	0.115	-0.303	0.149	0.948	0.811	1.11	0.541	0.844	loglinear	Endocytosis	NM_012287.5:852
+CD63-mRNA	0.153	0.23	-0.297	0.603	1.11	0.814	1.52	0.542	0.844	lm.nb	Lysosomal Degradation	NM_001780.4:350
+GNG12-mRNA	0.0981	0.148	-0.191	0.388	1.07	0.876	1.31	0.543	0.844	lm.nb	Cytokine & Chemokine Signaling, MAPK, PI3K	NM_018841.3:245
+ATF7IP-mRNA	0.111	0.169	-0.22	0.441	1.08	0.859	1.36	0.547	0.847	loglinear	Epigenetic Regulation	NM_018179.3:2505
+HLA-DRB1-mRNA	0.264	0.403	-0.526	1.05	1.2	0.695	2.08	0.548	0.847	lm.nb	Antigen Presentation, Cytokine & Chemokine Signaling	NM_002124.3:1016
+HSPE1-mRNA	-0.157	0.24	-0.627	0.314	0.897	0.648	1.24	0.55	0.847	lm.nb	Myc	NM_002157.2:607
+SOS2-mRNA	-0.0917	0.143	-0.372	0.188	0.938	0.773	1.14	0.556	0.851	loglinear	Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR	NM_006939.2:3845
+PDK3-mRNA	0.0659	0.103	-0.135	0.267	1.05	0.91	1.2	0.556	0.851	loglinear	Mitochondrial Respiration	NM_005391.1:585
+VEGFA-mRNA	0.462	0.723	-0.955	1.88	1.38	0.516	3.68	0.557	0.851	lm.nb	Cytokine & Chemokine Signaling, Hypoxia, MAPK, PI3K	NM_001025366.1:1325
+ARID1A-mRNA	0.0911	0.147	-0.197	0.379	1.07	0.873	1.3	0.569	0.866	lm.nb	Epigenetic Regulation	NM_006015.4:5495
+KDM3B-mRNA	-0.0762	0.124	-0.319	0.166	0.949	0.802	1.12	0.571	0.867	loglinear	Epigenetic Regulation	NM_016604.3:4178
+SRR-mRNA	0.125	0.208	-0.283	0.533	1.09	0.822	1.45	0.581	0.879	loglinear	Amino Acid Synthesis, Glutamine Metabolism	NM_021947.1:560
+TYMS-mRNA	-0.565	0.951	-2.43	1.3	0.676	0.186	2.46	0.585	0.881	lm.nb	Cell Cycle, Nucleotide Synthesis	NM_001071.2:1110
+YWHAZ-mRNA	0.0697	0.119	-0.163	0.302	1.05	0.893	1.23	0.588	0.881	loglinear	Cell Cycle, Cytokine & Chemokine Signaling, PI3K, p53 Pathway	NM_003406.2:2345
+NDUFB2-mRNA	-0.0854	0.146	-0.371	0.2	0.943	0.773	1.15	0.589	0.881	lm.nb	Mitochondrial Respiration	NM_004546.2:230
+ME2-mRNA	0.2	0.342	-0.47	0.87	1.15	0.722	1.83	0.59	0.881	lm.nb	Mitochondrial Respiration	NM_002396.3:610
+ABL1-mRNA	-0.0786	0.135	-0.342	0.185	0.947	0.789	1.14	0.591	0.881	loglinear	Cell Cycle, DNA Damage Repair, IDH12 Activity, Reactive Oxygen Response	NM_005157.3:3200
+GTSE1-mRNA	-0.559	0.94	-2.4	1.28	0.679	0.189	2.43	0.594	0.883	Wald	Cell Cycle	NM_016426.5:305
+AKT2-mRNA	-0.0318	0.0591	-0.148	0.084	0.978	0.903	1.06	0.619	0.918	loglinear	AMPK, Autophagy, Cell Cycle, Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR, p53 Pathway	NM_001626.4:699
+PCLAF-mRNA	-0.761	1.4	-3.5	1.97	0.59	0.0886	3.93	0.624	0.922	Wald	DNA Damage Repair	NM_014736.5:1025
+COX7C-mRNA	-0.105	0.199	-0.496	0.285	0.93	0.709	1.22	0.625	0.922	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_001867.2:57
+COL6A3-mRNA	-1.46	2.85	-7.04	4.12	0.364	0.00761	17.4	0.636	0.934	loglinear	PI3K	NM_004369.3:2782
+COX6A1-mRNA	-0.114	0.224	-0.553	0.326	0.924	0.682	1.25	0.639	0.934	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_004373.2:260
+SLC2A1-mRNA	0.146	0.29	-0.421	0.714	1.11	0.747	1.64	0.64	0.934	lm.nb	Glucose Transport, Vitamin & Cofactor Metabolism	NM_006516.2:2500
+FBP1-mRNA	-0.673	1.3	-3.23	1.88	0.627	0.107	3.68	0.641	0.934	Wald	AMPK, Glycolysis, Pentose Phosphate Pathway	NM_000507.3:590
+PSMD13-mRNA	0.0712	0.144	-0.21	0.353	1.05	0.865	1.28	0.646	0.938	lm.nb	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_175932.2:668
+TPX2-mRNA	-0.417	0.848	-2.08	1.24	0.749	0.237	2.37	0.648	0.939	lm.nb	Cell Cycle	NM_012112.4:2975
+PIK3CB-mRNA	0.0703	0.144	-0.212	0.353	1.05	0.863	1.28	0.651	0.941	loglinear	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_006219.1:2945
+GLS-mRNA	-0.131	0.273	-0.666	0.404	0.913	0.63	1.32	0.656	0.945	lm.nb	Amino Acid Synthesis, Arginine Metabolism, Glutamine Metabolism, p53 Pathway	NM_014905.3:985
+PKM-mRNA	-0.0914	0.192	-0.467	0.284	0.939	0.723	1.22	0.658	0.945	lm.nb	Glycolysis, Nucleotide Synthesis	NM_182471.1:2105
+REST-mRNA	-0.0623	0.131	-0.319	0.194	0.958	0.802	1.14	0.659	0.945	loglinear	Epigenetic Regulation, Transcriptional Regulation	NM_001193508.1:1140
+ATOX1-mRNA	0.0808	0.174	-0.26	0.421	1.06	0.835	1.34	0.666	0.95	lm.nb	Reactive Oxygen Response	NM_004045.3:143
+RUNX1-mRNA	0.0831	0.179	-0.268	0.434	1.06	0.83	1.35	0.667	0.95	lm.nb	Transcriptional Regulation	NM_001754.4:635
+BRAF-mRNA	0.103	0.222	-0.333	0.538	1.07	0.794	1.45	0.669	0.95	lm.nb	Cytokine & Chemokine Signaling, MAPK, mTOR	NM_004333.3:565
+FCAR-mRNA	-0.0545	0.119	-0.288	0.179	0.963	0.819	1.13	0.672	0.951	lm.nb	NA	NM_002000.2:1415
+HSF1-mRNA	-0.0873	0.192	-0.464	0.289	0.941	0.725	1.22	0.673	0.951	lm.nb	Transcriptional Regulation	XM_011517006.1:63
+CD163-mRNA	-0.11	0.244	-0.588	0.367	0.926	0.665	1.29	0.675	0.951	lm.nb	NA	NM_004244.4:1630
+AKT1-mRNA	-0.118	0.264	-0.634	0.399	0.922	0.644	1.32	0.679	0.954	lm.nb	AMPK, Autophagy, Cell Cycle, Cytokine & Chemokine Signaling, MAPK, PI3K, Reactive Oxygen Response, TCR & Costimulatory Signaling, Vitamin & Cofactor Metabolism, mTOR, p53 Pathway	NM_001014431.1:758
+TLR4-mRNA	0.0716	0.165	-0.251	0.394	1.05	0.84	1.31	0.686	0.957	lm.nb	Antigen Presentation, NF-kB, PI3K, TLR Signaling	NM_138554.2:2570
+PPARGC1A-mRNA	-0.42	0.942	-2.27	1.43	0.748	0.208	2.69	0.686	0.957	Wald	AMPK, Mitochondrial Respiration	NM_013261.3:1505
+ADA-mRNA	-0.223	0.515	-1.23	0.786	0.856	0.425	1.72	0.687	0.957	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_000022.2:1300
+MKI67-mRNA	-0.586	1.33	-3.19	2.02	0.666	0.11	4.05	0.689	0.958	Wald	Cell Cycle	NM_002417.2:4020
+PCK2-mRNA	0.133	0.31	-0.475	0.741	1.1	0.719	1.67	0.691	0.958	lm.nb	AMPK, Glycolysis, PI3K	NM_004563.2:795
+LEPR-mRNA	0.0918	0.217	-0.333	0.517	1.07	0.794	1.43	0.694	0.958	lm.nb	AMPK, Cytokine & Chemokine Signaling	NM_001003679.1:2000
+CENPA-mRNA	-0.329	0.78	-1.86	1.2	0.796	0.276	2.3	0.695	0.958	lm.nb	Cell Cycle	NM_001042426.1:979
+CD180-mRNA	-0.182	0.453	-1.07	0.707	0.882	0.476	1.63	0.709	0.97	lm.nb	TLR Signaling	NM_005582.2:1036
+APOC2-mRNA	-1.11	2.78	-6.55	4.33	0.462	0.0107	20.1	0.709	0.97	loglinear	Vitamin & Cofactor Metabolism	NM_000483.3:556
+LDHA-mRNA	-0.116	0.289	-0.683	0.452	0.923	0.623	1.37	0.71	0.97	lm.nb	Amino Acid Synthesis, Glycolysis, Mitochondrial Respiration, Myc	NM_001165414.1:1690
+GCLC-mRNA	-0.0959	0.243	-0.572	0.38	0.936	0.673	1.3	0.713	0.97	lm.nb	Amino Acid Synthesis, Reactive Oxygen Response	NM_001498.2:520
+TPSAB1/B2-mRNA	0.0668	0.173	-0.272	0.406	1.05	0.828	1.33	0.719	0.97	lm.nb	NA	NM_003294.3:579
+FABP5-mRNA	0.131	0.346	-0.547	0.808	1.09	0.685	1.75	0.724	0.97	lm.nb	Fatty Acid Synthesis	NM_001444.1:100
+OGDH-mRNA	-0.0925	0.246	-0.574	0.389	0.938	0.672	1.31	0.726	0.97	lm.nb	Amino Acid Synthesis, Mitochondrial Respiration, TryptophanKynurenine Metabolism	NM_001003941.2:196
+KIF2C-mRNA	-0.391	1.04	-2.44	1.65	0.763	0.185	3.15	0.727	0.97	lm.nb	Antigen Presentation, Cell Cycle	NM_006845.3:1940
+PIK3CA-mRNA	-0.0377	0.101	-0.235	0.16	0.974	0.849	1.12	0.727	0.97	loglinear	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_006218.2:2445
+BUB1-mRNA	-0.249	0.666	-1.55	1.06	0.842	0.34	2.08	0.728	0.97	lm.nb	Cell Cycle	NM_004336.3:1978
+ASH1L-mRNA	-0.0622	0.167	-0.389	0.265	0.958	0.764	1.2	0.728	0.97	loglinear	Amino Acid Synthesis, Epigenetic Regulation	NM_018489.2:5005
+COX8A-mRNA	0.0525	0.141	-0.223	0.328	1.04	0.857	1.26	0.728	0.97	loglinear	Mitochondrial Respiration, p53 Pathway	NM_004074.2:0
+ITCH-mRNA	-0.0315	0.0845	-0.197	0.134	0.978	0.872	1.1	0.728	0.97	loglinear	Antigen Presentation, Endocytosis	NM_001257138.1:438
+COX14-mRNA	-0.0959	0.26	-0.605	0.413	0.936	0.658	1.33	0.731	0.971	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_001257133.1:672
+PGK1-mRNA	0.0676	0.185	-0.296	0.431	1.05	0.815	1.35	0.734	0.971	lm.nb	Glycolysis	NM_000291.2:1030
+LAMTOR5-mRNA	-0.0864	0.238	-0.553	0.38	0.942	0.682	1.3	0.735	0.971	lm.nb	Autophagy, mTOR, p53 Pathway	NM_006402.2:504
+CHMP2A-mRNA	0.0333	0.0924	-0.148	0.214	1.02	0.903	1.16	0.737	0.971	loglinear	Autophagy, Endocytosis	NM_014453.3:241
+CLSPN-mRNA	-0.982	2.69	-6.25	4.29	0.506	0.0131	19.5	0.739	0.972	Wald	Cell Cycle, DNA Damage Repair	NM_022111.2:442
+MSRB2-mRNA	-0.0474	0.136	-0.314	0.219	0.968	0.804	1.16	0.745	0.977	loglinear	Reactive Oxygen Response	NM_012228.3:385
+APOE-mRNA	0.451	1.3	-2.1	3	1.37	0.234	7.98	0.746	0.977	lm.nb	Reactive Oxygen Response, Vitamin & Cofactor Metabolism	NM_000041.2:96
+HJURP-mRNA	-0.562	1.6	-3.7	2.58	0.677	0.0769	5.96	0.749	0.977	Wald	Cell Cycle	NM_018410.3:1325
+RRM1-mRNA	-0.0858	0.259	-0.593	0.421	0.942	0.663	1.34	0.757	0.984	lm.nb	Nucleotide Synthesis	NM_001033.3:2444
+CDCA8-mRNA	-0.699	2.07	-4.76	3.36	0.616	0.037	10.3	0.758	0.984	Wald	Cell Cycle	NM_018101.2:1665
+CTSZ-mRNA	0.0821	0.256	-0.42	0.584	1.06	0.748	1.5	0.765	0.99	lm.nb	Lysosomal Degradation	NM_001336.3:827
+SQSTM1-mRNA	0.0365	0.116	-0.191	0.264	1.03	0.876	1.2	0.768	0.993	loglinear	Cytokine & Chemokine Signaling	NM_003900.3:1445
+ERCC6-mRNA	0.0418	0.14	-0.233	0.317	1.03	0.851	1.25	0.781	0.997	loglinear	DNA Damage Repair, Reactive Oxygen Response	NM_001277058.1:200
+TXN-mRNA	0.0941	0.336	-0.565	0.754	1.07	0.676	1.69	0.794	0.997	lm.nb	p53 Pathway	NM_003329.2:55
+VPS28-mRNA	-0.0507	0.183	-0.409	0.308	0.965	0.753	1.24	0.795	0.997	lm.nb	Endocytosis	NM_016208.3:416
+RRM2-mRNA	-0.239	0.864	-1.93	1.45	0.847	0.262	2.74	0.796	0.997	lm.nb	Cell Cycle, Nucleotide Synthesis	NM_001034.1:1615
+FOXM1-mRNA	-0.643	2.28	-5.11	3.83	0.64	0.0289	14.2	0.796	0.997	Wald	Cell Cycle, Transcriptional Regulation	NM_202002.1:1000
+MGST3-mRNA	-0.0851	0.309	-0.691	0.521	0.943	0.62	1.43	0.797	0.997	lm.nb	KEAP1NRF2 Pathway	NM_004528.2:195
+CD244-mRNA	-1.24	4.43	-9.92	7.43	0.422	0.00103	173	0.797	0.997	Wald	NA	NM_001166663.1:22
+FANCI-mRNA	-0.138	0.511	-1.14	0.864	0.909	0.454	1.82	0.8	0.997	lm.nb	DNA Damage Repair	NM_001113378.1:541
+SDHC-mRNA	-0.0588	0.221	-0.493	0.375	0.96	0.711	1.3	0.804	0.997	lm.nb	IDH12 Activity, Mitochondrial Respiration	NM_001035511.1:615
+LAMTOR2-mRNA	0.0368	0.146	-0.249	0.323	1.03	0.841	1.25	0.813	0.997	loglinear	Autophagy, mTOR, p53 Pathway	NM_001145264.1:272
+NDUFB1-mRNA	-0.0549	0.22	-0.485	0.376	0.963	0.714	1.3	0.815	0.997	lm.nb	Mitochondrial Respiration	NM_004545.3:270
+EZH2-mRNA	-0.124	0.502	-1.11	0.859	0.917	0.464	1.81	0.817	0.997	lm.nb	Amino Acid Synthesis, Epigenetic Regulation	NM_001203247.1:1121
+TBX21-mRNA	0.399	1.6	-2.73	3.53	1.32	0.15	11.6	0.819	0.997	Wald	Transcriptional Regulation	NM_013351.1:890
+NQO1-mRNA	-0.102	0.422	-0.928	0.725	0.932	0.525	1.65	0.821	0.997	lm.nb	KEAP1NRF2 Pathway, Reactive Oxygen Response	NM_000903.2:790
+HSD11B1-mRNA	0.579	2.4	-4.13	5.29	1.49	0.0572	39	0.825	0.997	Wald	NA	NM_181755.1:155
+LY96-mRNA	-0.0651	0.288	-0.63	0.5	0.956	0.646	1.41	0.832	0.997	lm.nb	Antigen Presentation, NF-kB, TLR Signaling	NM_015364.2:360
+SERINC1-mRNA	-0.0429	0.192	-0.419	0.333	0.971	0.748	1.26	0.834	0.997	lm.nb	Glutamine Metabolism	NM_020755.2:95
+PRIM1-mRNA	-1.02	4.68	-10.2	8.16	0.493	8.52e-4	285	0.841	0.997	Wald	Cell Cycle, Nucleotide Synthesis	NM_000946.2:480
+DGLUCY-mRNA	-0.0234	0.111	-0.242	0.195	0.984	0.846	1.14	0.843	0.997	loglinear	Glutamine Metabolism	NM_001102369.2:442
+USP8-mRNA	0.00857	0.0412	-0.0721	0.0892	1.01	0.951	1.06	0.845	0.997	loglinear	Endocytosis	NM_001128610.1:1160
+COX5B-mRNA	-0.0448	0.222	-0.481	0.391	0.969	0.717	1.31	0.85	0.997	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_001862.2:240
+NDC1-mRNA	-0.987	4.79	-10.4	8.41	0.505	7.5e-4	340	0.85	0.997	Wald	Cell Cycle, Cytokine & Chemokine Signaling, Glycolysis	NM_001168551.1:1845
+PDCD1LG2-mRNA	1.23	6.05	-10.6	13.1	2.35	6.34e-4	8710	0.851	0.997	Wald	TCR & Costimulatory Signaling	NM_025239.3:235
+NDUFB4-mRNA	0.0309	0.155	-0.274	0.336	1.02	0.827	1.26	0.852	0.997	lm.nb	Mitochondrial Respiration, Reactive Oxygen Response	NM_004547.4:254
+AMDHD1-mRNA	-0.921	4.74	-10.2	8.37	0.528	8.45e-4	330	0.858	0.997	Wald	Amino Acid Synthesis	NM_152435.2:1936
+HSF2-mRNA	0.0382	0.204	-0.362	0.439	1.03	0.778	1.36	0.861	0.997	loglinear	Transcriptional Regulation	NM_001135564.1:615
+COX7B-mRNA	-0.0588	0.316	-0.678	0.561	0.96	0.625	1.48	0.861	0.997	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_001866.2:159
+PDGFB-mRNA	0.324	1.71	-3.03	3.68	1.25	0.122	12.8	0.862	0.997	Wald	Cytokine & Chemokine Signaling, MAPK, PI3K	NM_033016.2:1480
+NDUFA4-mRNA	-0.0607	0.342	-0.73	0.609	0.959	0.603	1.53	0.868	0.997	lm.nb	Mitochondrial Respiration, p53 Pathway	NM_002489.2:35
+KAT6A-mRNA	0.0136	0.0794	-0.142	0.169	1.01	0.906	1.12	0.872	0.997	loglinear	Epigenetic Regulation	NM_001099412.1:550
+RAD51-mRNA	-0.664	3.95	-8.42	7.09	0.631	0.00293	136	0.877	0.997	Wald	Cell Cycle, DNA Damage Repair	NM_133487.2:566
+AK3-mRNA	-0.0278	0.169	-0.36	0.304	0.981	0.779	1.23	0.878	0.997	loglinear	Nucleotide Synthesis	NM_016282.2:450
+SLC2A5-mRNA	0.0686	0.429	-0.773	0.91	1.05	0.585	1.88	0.881	0.997	lm.nb	Glucose Transport	NM_003039.2:711
+BRCA2-mRNA	-0.668	4.19	-8.89	7.55	0.629	0.00211	188	0.884	0.997	Wald	Cell Cycle, DNA Damage Repair	NM_000059.3:115
+ASNS-mRNA	-1.08	7.26	-15.3	13.2	0.475	2.46e-5	9160	0.892	0.997	Wald	Amino Acid Synthesis, Glutamine Metabolism	NM_183356.2:1644
+NAT8L-mRNA	-1.8	12.2	-25.7	22.1	0.287	1.87e-8	4400000	0.892	0.997	Wald	Amino Acid Synthesis, Glutamine Metabolism	NM_178557.3:3021
+UBE2C-mRNA	-0.274	1.92	-4.04	3.5	0.827	0.0606	11.3	0.896	0.997	Wald	Antigen Presentation, Cell Cycle	NM_007019.2:561
+AKT3-mRNA	-0.0408	0.293	-0.615	0.534	0.972	0.653	1.45	0.896	0.997	lm.nb	AMPK, Autophagy, Cell Cycle, Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR, p53 Pathway	NM_005465.4:287
+CYP1A1-mRNA	0.291	2.13	-3.88	4.47	1.22	0.0678	22.1	0.9	0.997	Wald	TryptophanKynurenine Metabolism	NM_000499.3:695
+GNS-mRNA	0.0154	0.115	-0.211	0.241	1.01	0.864	1.18	0.901	0.997	loglinear	Lysosomal Degradation	NM_002076.3:1340
+NCR1-mRNA	0.0568	0.442	-0.81	0.924	1.04	0.57	1.9	0.904	0.997	lm.nb	NA	NM_004829.5:602
+NDUFB11-mRNA	-0.0219	0.178	-0.372	0.328	0.985	0.773	1.26	0.908	0.997	lm.nb	Mitochondrial Respiration	NM_001135998.1:255
+EXO1-mRNA	-1.49	12.1	-25.2	22.2	0.357	2.6e-8	4890000	0.91	0.997	Wald	Cell Cycle, DNA Damage Repair	NM_003686.3:2715
+SLC6A12-mRNA	-0.313	2.57	-5.36	4.73	0.805	0.0244	26.6	0.911	0.997	Wald	Amino Acid Transporters	NM_003044.3:969
+BRCA1-mRNA	-0.565	4.77	-9.91	8.77	0.676	0.00104	438	0.913	0.997	Wald	Cell Cycle, DNA Damage Repair, PI3K	NM_007294.3:787
+RAD51AP1-mRNA	-0.306	2.64	-5.47	4.86	0.809	0.0225	29.1	0.915	0.997	Wald	DNA Damage Repair	NM_001130862.1:1125
+DGUOK-mRNA	-0.0305	0.295	-0.609	0.548	0.979	0.656	1.46	0.923	0.997	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_080916.2:902
+ALDOA-mRNA	0.0147	0.149	-0.277	0.306	1.01	0.825	1.24	0.926	0.997	lm.nb	Glycolysis, Pentose Phosphate Pathway	NM_184041.2:1455
+PTGS1-mRNA	-0.0536	0.551	-1.13	1.03	0.964	0.456	2.04	0.927	0.997	lm.nb	Reactive Oxygen Response	NM_000962.2:700
+HEXA-mRNA	-0.018	0.186	-0.383	0.347	0.988	0.767	1.27	0.927	0.997	lm.nb	Lysosomal Degradation	NM_000520.4:702
+FANCA-mRNA	-1.12	11.4	-23.6	21.3	0.459	8.14e-8	2590000	0.928	0.997	Wald	DNA Damage Repair	NM_000135.2:798
+SREBF1-mRNA	-0.0254	0.264	-0.543	0.492	0.983	0.686	1.41	0.928	0.997	lm.nb	AMPK, Transcriptional Regulation	NM_001005291.1:1392
+FANCD2-mRNA	-0.394	4.09	-8.42	7.63	0.761	0.00293	198	0.929	0.997	Wald	DNA Damage Repair	NM_033084.3:260
+WRN-mRNA	-0.616	6.5	-13.4	12.1	0.653	9.54e-5	4460	0.93	0.997	Wald	Cell Cycle, DNA Damage Repair, Reactive Oxygen Response	NM_000553.4:2944
+PUDP-mRNA	-0.418	4.6	-9.43	8.59	0.748	0.00145	387	0.933	0.997	Wald	Nucleotide Salvage	NM_001178135.1:425
+BUB1B-mRNA	-1.08	12	-24.7	22.5	0.472	3.79e-8	5880000	0.934	0.997	Wald	Cell Cycle	NM_001211.4:835
+HPRT1-mRNA	-0.0106	0.126	-0.258	0.237	0.993	0.836	1.18	0.937	0.997	lm.nb	Nucleotide Salvage, Nucleotide Synthesis	NM_000194.1:240
+APOM-mRNA	-0.331	3.91	-8	7.34	0.795	0.00389	162	0.938	0.997	Wald	Vitamin & Cofactor Metabolism	NM_019101.2:496
+UMPS-mRNA	-1.02	12.1	-24.7	22.6	0.493	3.77e-8	6440000	0.938	0.997	Wald	Nucleotide Synthesis	NM_000373.2:2445
+NOD2-mRNA	0.607	7.35	-13.8	15	1.52	7.05e-5	32900	0.939	0.997	Wald	Cytokine & Chemokine Signaling, TLR Signaling	NM_001293557.1:652
+FOLR3-mRNA	0.138	1.68	-3.16	3.43	1.1	0.112	10.8	0.94	0.997	Wald	Endocytosis	NM_000804.2:469
+LTC4S-mRNA	-0.669	8.16	-16.7	15.3	0.629	9.7e-6	40800	0.94	0.997	Wald	Glutamine Metabolism	NM_145867.1:31
+TK1-mRNA	-0.195	2.4	-4.91	4.52	0.873	0.0333	22.9	0.94	0.997	Wald	Cell Cycle, Nucleotide Salvage, Nucleotide Synthesis	NM_003258.1:1215
+EHHADH-mRNA	-0.97	12	-24.5	22.6	0.51	4.13e-8	6310000	0.941	0.997	Wald	Amino Acid Synthesis, Fatty Acid Oxidation, TryptophanKynurenine Metabolism	NM_001166415.1:2022
+GCDH-mRNA	-0.334	4.23	-8.63	7.96	0.793	0.00253	249	0.942	0.997	Wald	Amino Acid Synthesis, Fatty Acid Oxidation, TryptophanKynurenine Metabolism	NM_000159.2:464
+MLYCD-mRNA	-0.0124	0.161	-0.327	0.302	0.991	0.797	1.23	0.942	0.997	loglinear	AMPK	NM_012213.2:1530
+CDCA5-mRNA	-0.184	2.38	-4.85	4.48	0.88	0.0347	22.3	0.943	0.997	Wald	Cell Cycle	NM_080668.3:308
+IL21R-mRNA	-0.925	12.1	-24.6	22.8	0.527	3.87e-8	7160000	0.944	0.997	Wald	Cytokine & Chemokine Signaling	NM_021798.2:2080
+CLOCK-mRNA	-0.907	12	-24.4	22.6	0.533	4.48e-8	6350000	0.944	0.997	Wald	Epigenetic Regulation, Transcriptional Regulation	NM_004898.2:2350
+SERINC2-mRNA	-0.709	9.45	-19.2	17.8	0.612	1.62e-6	231000	0.945	0.997	Wald	Glutamine Metabolism	NM_018565.3:795
+POLE-mRNA	-0.716	9.61	-19.6	18.1	0.609	1.29e-6	287000	0.945	0.997	Wald	Cell Cycle, DNA Damage Repair, Nucleotide Synthesis	NM_006231.3:3264
+NDUFA12-mRNA	0.0117	0.162	-0.305	0.328	1.01	0.809	1.26	0.946	0.997	lm.nb	Mitochondrial Respiration, Reactive Oxygen Response	NM_018838.3:315
+PPARG-mRNA	0.013	0.185	-0.349	0.375	1.01	0.785	1.3	0.947	0.997	lm.nb	AMPK, Transcriptional Regulation	NM_005037.5:345
+PFKL-mRNA	0.0144	0.204	-0.385	0.414	1.01	0.766	1.33	0.947	0.997	lm.nb	AMPK, Glycolysis, Pentose Phosphate Pathway	NM_001002021.1:2410
+MAP3K12-mRNA	-0.406	5.71	-11.6	10.8	0.755	3.23e-4	1760	0.948	0.997	Wald	MAPK	NM_006301.2:800
+AFMID-mRNA	-0.823	12	-24.4	22.8	0.565	4.49e-8	7110000	0.95	0.997	Wald	TryptophanKynurenine Metabolism	NM_001010982.4:850
+TIMELESS-mRNA	-0.795	12	-24.3	22.7	0.576	4.83e-8	6870000	0.951	0.997	Wald	DNA Damage Repair	NM_003920.2:1185
+ACMSD-mRNA	0.772	11.7	-22.2	23.8	1.71	2.06e-7	14200000	0.952	0.997	Wald	TryptophanKynurenine Metabolism	NM_138326.2:468
+CTSW-mRNA	0.39	6.08	-11.5	12.3	1.31	3.4e-4	5050	0.953	0.997	Wald	Lysosomal Degradation	NM_001335.3:1075
+UCK1-mRNA	0.00905	0.146	-0.278	0.296	1.01	0.825	1.23	0.954	0.997	loglinear	Nucleotide Salvage, Nucleotide Synthesis	NM_031432.3:232
+CYBB-mRNA	-0.0389	0.665	-1.34	1.26	0.973	0.394	2.4	0.956	0.997	lm.nb	Antigen Presentation	NM_000397.3:2686
+PSPH-mRNA	-0.707	12	-24.2	22.8	0.613	5.09e-8	7380000	0.957	0.997	Wald	Amino Acid Synthesis, Glutamine Metabolism	NM_004577.3:225
+NEDD8-mRNA	0.0134	0.234	-0.446	0.473	1.01	0.734	1.39	0.957	0.997	lm.nb	Endocytosis	NM_006156.2:330
+CPS1-mRNA	-0.636	12.1	-24.3	23	0.643	4.78e-8	8660000	0.961	0.997	Wald	Amino Acid Synthesis, Arginine Metabolism	NM_001875.3:5560
+PRR5-mRNA	0.262	5.16	-9.85	10.4	1.2	0.00108	1330	0.963	0.997	Wald	mTOR	NM_015366.3:1635
+CACNB4-mRNA	-0.202	4.19	-8.42	8.02	0.869	0.00292	259	0.965	0.997	Wald	MAPK	NM_000726.3:504
+NDUFA1-mRNA	0.0098	0.228	-0.437	0.457	1.01	0.739	1.37	0.968	0.997	lm.nb	Mitochondrial Respiration	NM_004541.3:240
+NDUFA2-mRNA	-0.0159	0.389	-0.778	0.746	0.989	0.583	1.68	0.969	0.997	lm.nb	Mitochondrial Respiration	NM_001185012.1:116
+ITGAM-mRNA	0.0143	0.353	-0.677	0.706	1.01	0.625	1.63	0.97	0.997	lm.nb	Cytokine & Chemokine Signaling, TLR Signaling	NM_000632.3:515
+MS4A4A-mRNA	0.0172	0.482	-0.927	0.962	1.01	0.526	1.95	0.973	0.997	lm.nb	NA	NM_024021.2:800
+TP53-mRNA	-0.438	12.1	-24.1	23.2	0.738	5.52e-8	9880000	0.973	0.997	Wald	Cell Cycle, Cytokine & Chemokine Signaling, DNA Damage Repair, MAPK, Myc, PI3K, Transcriptional Regulation, p53 Pathway	NM_000546.2:1330
+ZNF708-mRNA	0.247	7.46	-14.4	14.9	1.19	4.73e-5	29800	0.976	0.997	Wald	Transcriptional Regulation	NM_021269.2:488
+IDNK-mRNA	0.0937	2.92	-5.62	5.81	1.07	0.0203	56	0.976	0.997	Wald	Pentose Phosphate Pathway	NM_001001551.3:272
+PIK3R3-mRNA	-0.38	12	-24	23.2	0.769	6.16e-8	9580000	0.977	0.997	Wald	AMPK, Autophagy, Cytokine & Chemokine Signaling, PI3K, TCR & Costimulatory Signaling, mTOR	NM_003629.3:5016
+SEC13-mRNA	0.00743	0.245	-0.473	0.488	1.01	0.72	1.4	0.977	0.997	lm.nb	Antigen Presentation, Cell Cycle, Glycolysis, mTOR	NM_001136026.2:400
+ATP6V1F-mRNA	-0.00581	0.197	-0.392	0.38	0.996	0.762	1.3	0.978	0.997	lm.nb	Mitochondrial Respiration, mTOR	NM_001198909.1:673
+MYCL-mRNA	0.345	12.1	-23.3	24	1.27	9.66e-8	16700000	0.979	0.997	Wald	Transcriptional Regulation	NM_001033081.2:568
+UQCR11-mRNA	-0.251	8.9	-17.7	17.2	0.84	4.71e-6	150000	0.979	0.997	Wald	Mitochondrial Respiration	NM_006830.2:360
+D2HGDH-mRNA	-0.338	12.1	-24	23.3	0.791	5.9e-8	10600000	0.979	0.997	Wald	IDH12 Activity, Mitochondrial Respiration	NM_001287249.1:550
+PSMA7-mRNA	-0.00381	0.139	-0.277	0.269	0.997	0.825	1.21	0.979	0.997	lm.nb	Antigen Presentation, Cell Cycle, Cytokine & Chemokine Signaling, Hypoxia	NM_002792.2:639
+L2HGDH-mRNA	-0.332	12.1	-24	23.3	0.794	6.13e-8	10300000	0.98	0.997	Wald	IDH12 Activity, Mitochondrial Respiration	NM_024884.2:1296
+PYCR3-mRNA	-0.291	12.1	-23.9	23.3	0.817	6.31e-8	10600000	0.982	0.997	Wald	Amino Acid Synthesis, Glutamine Metabolism	NM_023078.2:1145
+BRIP1-mRNA	-0.0847	3.77	-7.47	7.3	0.943	0.00565	157	0.983	0.997	Wald	Cell Cycle, DNA Damage Repair	NM_032043.1:1130
+PFKM-mRNA	-0.26	12.1	-23.9	23.4	0.835	6.32e-8	11000000	0.984	0.997	Wald	AMPK, Glycolysis, Pentose Phosphate Pathway	NM_000289.5:2195
+GAD1-mRNA	0.0898	4.69	-9.1	9.28	1.06	0.00183	620	0.986	0.997	Wald	Amino Acid Synthesis	NM_000817.2:575
+ZNF675-mRNA	-0.0816	4.54	-8.99	8.82	0.945	0.00197	453	0.987	0.997	Wald	Transcriptional Regulation	NM_138330.2:851
+SELENOK-mRNA	-0.202	12	-23.8	23.4	0.869	7.01e-8	10800000	0.988	0.997	Wald	Reactive Oxygen Response	NM_021237.3:42
+KIR3DL1/2-mRNA	-0.189	12.1	-23.9	23.5	0.877	6.6e-8	11700000	0.988	0.997	Wald	NA	NM_001322168.1:466
+RIMKLB-mRNA	-0.155	10	-19.8	19.5	0.898	1.09e-6	737000	0.989	0.997	Wald	Amino Acid Synthesis, Glutamine Metabolism	NM_020734.2:1840
+NRF1-mRNA	-0.185	12.1	-23.8	23.5	0.879	6.7e-8	11500000	0.989	0.997	Wald	Mitochondrial Respiration	NM_001040110.1:2910
+NRAS-mRNA	-0.00181	0.135	-0.267	0.264	0.999	0.831	1.2	0.99	0.997	lm.nb	Autophagy, Cytokine & Chemokine Signaling, MAPK, PI3K, TCR & Costimulatory Signaling, mTOR	NM_002524.3:877
+NAALAD2-mRNA	0.131	12.1	-23.5	23.8	1.09	8.19e-8	14600000	0.992	0.997	Wald	Glutamine Metabolism	NM_005467.3:830
+ALOX15-mRNA	-0.124	12.1	-23.8	23.6	0.918	6.81e-8	12400000	0.992	0.997	Wald	Cytokine & Chemokine Signaling	NM_001140.3:1910
+TELO2-mRNA	-0.12	12	-23.7	23.5	0.92	7.22e-8	11700000	0.993	0.997	Wald	mTOR	NM_016111.3:294
+SLC16A13-mRNA	-0.0672	12.1	-23.7	23.6	0.955	7.1e-8	12800000	0.996	0.998	Wald	Amino Acid Transporters	NM_201566.2:355
+BCL2-mRNA	-3.2e-16	0.576	-1.13	1.13	1	0.457	2.19	1	1	lm.nb	Autophagy, Cytokine & Chemokine Signaling, NF-kB, PI3K, Reactive Oxygen Response	NM_000657.2:5

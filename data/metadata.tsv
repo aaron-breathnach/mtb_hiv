@@ -1,0 +1,13 @@
+sample_id	pair	group	tb	hiv
+1	pair_01	U937 + Uninfected	negative	negative
+2	pair_01	U937 + Infected	positive	negative
+3	pair_02	U1 + Uninfected	negative	positive
+4	pair_02	U1 + Infected	positive	positive
+5	pair_03	U937 + Uninfected	negative	negative
+6	pair_03	U937 + Infected	positive	negative
+7	pair_04	U1 + Uninfected	negative	positive
+8	pair_04	U1 + Infected	positive	positive
+9	pair_05	U937 + Uninfected	negative	negative
+10	pair_05	U937 + Infected	positive	negative
+11	pair_06	U1 + Uninfected	negative	positive
+12	pair_06	U1 + Infected	positive	positive
